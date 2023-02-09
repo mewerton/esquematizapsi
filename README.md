@@ -27,6 +27,8 @@ Neste projeto foram abordados os seguintes temas:
 - [Styled Components](https://styled-components.com/)
 - [React Router Dom](https://react-icons.github.io/react-icons/)
 - [React Icons](https://react-icons.github.io/react-icons)
+- [Font Awesome](https://cdnjs.com/libraries/font-awesome)
+
 
 ---
 

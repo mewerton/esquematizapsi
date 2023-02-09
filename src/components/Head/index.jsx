@@ -7,7 +7,7 @@ export function Head(){
                 <div className="container flexSB">
                     <div className="logo">
                         <h1>ESQUEMATIZAPSI</h1>
-                        <span>Cursos Online</span>
+                        <span>Terapia do Esquema</span>
                     </div>
                     <div className="social">
                         <i className="fab fa-facebook icon"></i>

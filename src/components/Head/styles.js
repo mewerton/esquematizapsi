@@ -4,7 +4,7 @@ export const Container = styled.div`
 
 .head{
     padding: 20px;
-    color: ${({ theme }) => theme.COLORS.BLACK};
+    color: ${({ theme }) => theme.COLORS.WHITE};
 }
 
 .logo h1{

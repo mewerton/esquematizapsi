@@ -9,6 +9,7 @@ export default createGlobalStyle`
 
 body{
     font-family: 'Roboto', sans-serif;
+    background-color: ${({theme}) => theme.COLORS.BACKGROUND_COLOR_500};
 }
 
 input, body, button, textarea{
@@ -20,10 +21,17 @@ input, body, button, textarea{
 a{
     text-decoration: none;
 }
+li{
+    list-style-type: none;
+}
 
 button, a{
     cursor: pointer;
     transition: 0.2s ease-in-out;
+}
+
+button{
+    border: none;
 }
 
 
