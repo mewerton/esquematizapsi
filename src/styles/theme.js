@@ -18,8 +18,10 @@ export default {
     BACKGROUND_COLOR_300:"#F8F8F8",
     BACKGROUND_COLOR_500:"#f6e6e9",
 
+    BACKGROUND_700: "rgba(0 0 0 /9%)",
     BACKGROUND_200: "rgba(255,255,255, 0.3)",
     BACKGROUND_100: "rgba(0,0,0, 0.1)",
+
 
     BACKGROUND_PINK_100: "#f6e6e9",
     BACKGROUND_PINK_400: "#cc899b",

@@ -10,6 +10,7 @@ export default createGlobalStyle`
 body{
     font-family: 'Roboto', sans-serif;
     background-color: ${({theme}) => theme.COLORS.BACKGROUND_COLOR_500};
+    background-color: ${({theme}) => theme.COLORS.BACKGROUND_WHITE};
 }
 
 input, body, button, textarea{
@@ -28,10 +29,38 @@ li{
 button, a{
     cursor: pointer;
     transition: 0.2s ease-in-out;
+    
 }
 
 button{
     border: none;
+    padding: 17px 30px;
+    background-color: ${({theme}) => theme.COLORS.WHITE};
+    color: ${({theme}) => theme.COLORS.PINK_400};
+    font-weight: 600;
+    margin: 30px 10px 0 0;
+    border-radius: 3px;
+    box-shadow: 0 24px 36px -11px ${({theme}) => theme.COLORS.BACKGROUND_700};
+
+}
+
+button i {
+    margin-left: 20px;
+
+}
+
+button:hover{
+    box-shadow: none;
+}
+
+.primary-btn{
+    background-color: ${({theme}) => theme.COLORS.PINK_400};
+    color: ${({theme}) => theme.COLORS.WHITE};
+
+}
+
+.row{
+    width: 50%;
 }
 
 

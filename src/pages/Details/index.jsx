@@ -1,14 +1,17 @@
-import { Header } from "../../components/Header"
+// import { Header } from "../../components/Header"
 import { Container } from "./styles"
-import {BrowserRouter as Router, Route} from "react-router-dom"
+import {BrowserRouter, Routes, Route } from "react-router-dom"
+import { Home } from "../Home"
 
 export function Details(){
+
   return (
     <Container>
-      <Router>
-        <Header/>
-
-      </Router>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Home/>}/>
+        </Routes>
+      </BrowserRouter>
     </Container>
   )
 }
