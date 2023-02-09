@@ -16,14 +16,14 @@ header li{
 }
 
 header ul li a{
-    color: ${({theme}) => theme.COLORS.WHITE};
+    color: ${({theme}) => theme.COLORS.PINK_400};
     font-weight: 500;
     transition: 0.5s;
 
 }
 
 header ul li a:hover{
-    color: ${({theme}) => theme.COLORS.BLUE_300};
+    color: ${({theme}) => theme.COLORS.YELLOW_900};
 }
 
 .start{

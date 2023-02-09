@@ -6,8 +6,8 @@ export function Head(){
             <section className="head">
                 <div className="container flexSB">
                     <div className="logo">
-                        <h1>ESQUEMATIZAPSI</h1>
-                        <span>Terapia do Esquema</span>
+                        <h1>ESQUEMATIZA</h1>
+                        <span>Psicologia</span>
                     </div>
                     <div className="social">
                         <i className="fab fa-facebook icon"></i>
