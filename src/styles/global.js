@@ -87,6 +87,17 @@ button:hover{
 
 }
 
+.grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+}
 @media screen and (max-width:600px){
     
 

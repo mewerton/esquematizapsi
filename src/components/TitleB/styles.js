@@ -10,7 +10,7 @@ export const Container =  styled.div`
 #heading h3{
     font-weight: 600;
     letter-spacing: 1px;
-    color: ${({theme}) => theme.COLORS.PINK_400};
+    color: ${({theme}) => theme.COLORS.WHITE};
     text-transform: uppercase;
 }
 
@@ -19,6 +19,7 @@ export const Container =  styled.div`
     font-size: 45px;
     margin: 20px 0;
     text-transform: capitalize;
+    color: ${({theme}) => theme.COLORS.WHITE};
 }
 
 p{

@@ -10,8 +10,7 @@ export function Hero(){
                 <img src={CapaImg} alt="" />
                 <div className="container">
                     <div className="row">
-                        <Title
-                            
+                        <Title 
                             subtitle={"Terapia do Esquema: uma abordagem eficaz para tratamento de problemas emocionais"}
                         />
                         <p>É importante que os psicólogos estejam familiarizados com essa abordagem para oferecer tratamentos personalizados e eficazes aos pacientes. Aprender sobre a terapia do esquema ajuda os profissionais a fornecer soluções mais efetivas para seus pacientes, promovendo uma vida mais saudável e feliz. </p>
