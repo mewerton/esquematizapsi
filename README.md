@@ -17,9 +17,9 @@
 
 ## 💻 Sobre:
 
-A aplicação desenvolvida é uma plataforma de cursos online para estudantes e profissionais da área de psicologia que buscam conhecimentos sobre a Terapia do Esquema.
+A aplicação em desenvolvimento é uma plataforma de cursos online para estudantes e profissionais da área de psicologia que buscam conhecimentos sobre a Terapia do Esquema.
 
-Neste projeto foram abordados os seguintes temas:
+Neste projeto estão sendo abordados os seguintes temas:
 
 - [ReactJs](https://reactjs.org)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
