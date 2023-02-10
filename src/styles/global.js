@@ -98,6 +98,11 @@ button:hover{
     display: flex;
     align-items: center;
 }
+
+.marigin{
+    margin-top: 40.3%;
+}
+
 @media screen and (max-width:600px){
     
 
