@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img width="800" src="../esquematizapsi/src/assets/apresentarpsi.png">
+  <img width="800" src="./src/assets/apresentarpsi.png">
 </p>
 
 ## 💻 Sobre:
