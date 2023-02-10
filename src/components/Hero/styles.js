@@ -27,16 +27,71 @@ export const Container = styled.div`
         height: 100%;
         width: 100%;
         object-fit: cover;
+        object-position: right;
 
        /* -webkit-mask-attachment: fixed; */
+}
 
-    
+.hero #heading{
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+
+.row{
+    width: 60%;
 }
 
 .row p{
     background-color: ${({theme}) => theme.COLORS.BACKGROUND_200};
     border-radius: 5px;
     padding: 5px 5px;
+}
+
+@media screen and (max-width: 920px){
+    .margin{
+        height: 40vh;
+    }
+
+    .hero{
+        padding-top: 30%;
+        height: 100vh;
+    }
+    .hero .row{
+        width: 50%;
+    }
+    .hero img{
+        object-position: right;
+    }
+    
+}
+
+@media screen and (max-width: 600px){
+    .margin{
+        height: 40vh;
+    }
+
+    .hero{
+        padding-top: 160%;
+        height: 70vh;
+        
+    }
+    .hero .row{
+        width: 100%;
+    }
+    .hero img{
+        object-position: right;
+    }
+   
+    .row p{
+    margin-top: 1rem;
+    border-radius: 5px;
+    padding: 5px 5px;
+    font-size: 14px;
+    
+}
+
 }
 
 `

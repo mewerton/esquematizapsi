@@ -12,7 +12,7 @@ export function Head(){
                     <div className="social">
                         <i className="fab fa-facebook icon"></i>
                         <i className="fab fa-instagram icon"></i>
-                        <i className="fab fa-youtube icon"></i>
+                        
                     </div>
                 </div>
             </section>

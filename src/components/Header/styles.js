@@ -37,7 +37,7 @@ header ul li a:hover{
     display: none;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 920px){
     .start{
         clip-path: none;
 
@@ -63,8 +63,8 @@ header ul li a:hover{
         color: ${({theme}) => theme.COLORS.WHITE};
         font-size: 30px;
         position: absolute;
-        right: 30px;
-        top: 20px;
+        right: 50px;
+        top: -25px;
     }
 
     .mobile-nav{
@@ -74,7 +74,19 @@ header ul li a:hover{
         width: 100%;
         background-color: ${({theme}) => theme.COLORS.BLUE_300};
     }
+
+    header ul li a{
+    color: ${({theme}) => theme.COLORS.WHITE};
+    }
 }
 
+@media screen and (max-width: 600px){
+
+    .toggle{
+        
+        top: -5px;
+    }
+
+}
 
 `

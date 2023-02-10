@@ -59,11 +59,6 @@ button:hover{
 
 }
 
-.row{
-    width: 50%;
-}
-
-
 .container{
     max-width: 85%;
     margin: auto;
@@ -90,6 +85,32 @@ button:hover{
     background-color: ${({theme}) => theme.COLORS.BLUE_300};
     color:  ${({theme}) => theme.COLORS.WHITE};
 
+}
+
+@media screen and (max-width:600px){
+    
+
+
+button{
+    border: none;
+    padding: 12px 12px;
+    
+    font-weight: 600;
+    margin: 15px 5px 0 0;
+    border-radius: 3px;
+    margin-left: 5px;
+    
+
+}
+
+button i {
+    margin-left: 5px;
+
+}
+
+button:hover{
+    box-shadow: none;
+}
 }
 
 
