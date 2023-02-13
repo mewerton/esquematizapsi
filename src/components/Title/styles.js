@@ -19,6 +19,7 @@ export const Container =  styled.div`
     font-size: 45px;
     margin: 20px 0;
     text-transform: capitalize;
+    color: ${({theme}) => theme.COLORS.PINK_900};
 }
 
 p{
@@ -30,9 +31,14 @@ p{
 @media screen and (max-width:600px){
    
     #heading h3{
-        margin-top: 2.5rem;
+        margin-top: 1.5rem;
         font-size: 18px;
     }
+    #heading h1{
+        font-size: 30px;
+    }
+
 }
+
 
 `

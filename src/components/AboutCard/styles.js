@@ -16,6 +16,8 @@ export const Container = styled.div`
     width: 100%;
     height: 100%;
     object-fit: cover;
+    
+  
 
 }
 
@@ -45,6 +47,7 @@ export const Container = styled.div`
     width: 70px;
     height: 70px;
     
+    
 }
 
 .aboutHome .item h2{
@@ -58,6 +61,54 @@ export const Container = styled.div`
     /* ADICONAR ESSA VARIAVEL DE COR */
     box-shadow: 0 5px 25px -2px rgb(0 0 0 /6%);
     
+
+}
+
+@media screen and (max-width: 768px){
+    
+    .aboutHome .left img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+  
+
+}
+.aboutHome .right{
+    padding: 80px 20px;
+}
+
+    .aboutHome .container{
+        flex-direction: column-reverse;
+        
+    }
+
+ 
+
+    .aboutHome .item h2{
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+
+.aboutHome .img{
+    width: 200px;
+}
+
+
+}
+
+@media screen and (max-width: 600px){
+
+    .aboutHome .item p{
+    font-size: 12px;
+    
+}
+
+    .aboutHome .item {
+        gap: 1rem;
+    }
+
 
 }
 

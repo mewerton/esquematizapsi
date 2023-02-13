@@ -103,10 +103,23 @@ button:hover{
     margin-top: 40.3%;
 }
 
+@media screen and (max-width:768px){
+
+    .grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+
+}
+
+}
+
 @media screen and (max-width:600px){
     
-
-
+    .container{
+    max-width: 100%;
+    }
+    
 button{
     border: none;
     padding: 12px 12px;
@@ -118,6 +131,8 @@ button{
     
 
 }
+
+
 
 button i {
     margin-left: 5px;

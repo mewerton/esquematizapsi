@@ -7,12 +7,12 @@ export function AwRapper(){
             <section className="awrapper">
                 <div className="container grid">
                     {awrapper.map((val) => (
-                        <div className="box flex">
+                        <div key={val.id} className="box flex">
                             <div className="img">
                                 <img src={val.cover} alt="" />
                             </div>
                             <div className="text">
-                               
+                                                               
                                 <h3>{val.title}</h3>
                             </div>
                         </div>

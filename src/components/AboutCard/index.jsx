@@ -14,10 +14,11 @@ export function AboutCard(){
                         <img src={ImageB} alt="" />
                     </div>
                     <div className="right row">
-                        <Title subtitle={"LERAN ANYTHING"} title={"benefícios de reuniões"}/>
+                        <Title subtitle={"SAIBA MAIS"} title={"BENEFÍCIOS DO ESQUEMATIZA"}/>
                         <div className="items">
                             {homeAbout.map((val) => (
-                                <div className="item flexSB">
+
+                                <div key={val.id} className="item flexSB">
                                     <div className="img">
                                         <img src={val.cover} alt="" />
                                     </div>

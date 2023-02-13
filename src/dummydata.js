@@ -6,13 +6,13 @@ export const homeAbout = [
       desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     },
     {
-      id: 1,
+      id: 2,
       cover: "https://img.icons8.com/ios/80/000000/diploma.png",
       title: "Earn A Certificates",
       desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     },
     {
-      id: 1,
+      id: 3,
       cover: "https://img.icons8.com/ios/80/000000/athlete.png",
       title: "Learn with Expert",
       desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
@@ -23,22 +23,26 @@ export const homeAbout = [
       cover: "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
       data: "40",
       title: "HISTÓRIAS DE SUCESSO",
+      id: 1,
     },
   
     {
       cover: "https://img.icons8.com/ios/80/ffffff/athlete.png",
       data: "3",
       title: "INSTRUTORAS DE CONFIANÇA",
+      id: 2,
     },
     {
       cover: "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
       data: "1,000",
       title: "ENCONTROS PRESENCIAIS",
+      id: 3,
     },
     {
       cover: "https://img.icons8.com/ios/80/ffffff/macbook-idea--v3.png",
       data: "587",
       title: "COURSOS ONLINE ",
+      id: 4,
     },
   ]
   export const coursesCard = [
