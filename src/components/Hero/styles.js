@@ -75,10 +75,12 @@ export const Container = styled.div`
     .hero{
         padding-top: 160%;
         height: 70vh;
+       
         
     }
     .hero .row{
         width: 100%;
+        margin: 2.5rem 1rem 1rem 1.5rem;
     }
     .hero img{
         object-position: right;
@@ -89,9 +91,8 @@ export const Container = styled.div`
     border-radius: 5px;
     padding: 5px 5px;
     font-size: 14px;
-    
-}
-
+   
+    }
 
     
 

@@ -7,6 +7,7 @@ import { Title } from "../../components/Title";
 import { HeaderB } from "../../components/HeaderB";
 import { TitleB } from "../../components/TitleB";
 import { AboutCard } from "../../components/AboutCard";
+import { TextAbout } from "../../components/TextAbout";
 
 export function Sobre(){
     return(
@@ -21,6 +22,7 @@ export function Sobre(){
                 </div>
 
             </div>
+            <TextAbout/>
             <AboutCard/>
             
         </Container>

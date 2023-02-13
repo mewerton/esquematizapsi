@@ -98,6 +98,12 @@ export const Container = styled.div`
 
 }
 
+@media screen and (max-width: 768px){
+    .aboutHome .item {
+        
+    }
+}
+
 @media screen and (max-width: 600px){
 
     .aboutHome .item p{
@@ -109,6 +115,9 @@ export const Container = styled.div`
         gap: 1rem;
     }
 
+    .right{
+        margin-top: -3rem;
+    }
 
 }
 
