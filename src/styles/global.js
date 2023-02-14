@@ -96,26 +96,84 @@ button:hover{
 
 .flex{
     display: flex;
-    align-items: center;
+    
 }
 
 .marigin{
     margin-top: 40.3%;
 }
 
-@media screen and (max-width:768px){
-
-    .grid{
+.grid2{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 30px;
+}
+
+.outline-btn{
+    margin: 0;
+    box-shadow: none;
+    border: 2px solid pink;
+    width: 100%;
+    transition: 0.5s;
+}
+
+.outline-btn:hover{
+    background-color: pink;
+    color: #fff;
 
 }
 
+.grid3{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+}
+
+.padding{
+    padding: 80px 0;
+}
+
+.shadow{
+    box-shadow: 0 5px 25px -2px rgba(0 0 0 /6%);
+    background-color: #fff;
+}
+
+
+@media screen and (max-width:1061px){
+    .grid2{
+    grid-template-columns: repeat(2, 1fr);
+   
+    }
+.grid3{
+    grid-template-columns: repeat(3, 1fr);
+   
+    }
+    
+}
+
+@media screen and (max-width:768px){
+    .grid3, .grid{
+        grid-template-columns: repeat(2, 1fr);
+      
+    }
+    
+}
+
+@media screen and (max-width:723px){
+    .grid2{ 
+        grid-template-columns: repeat(1, 1fr);
+        
+    }
+    
 }
 
 @media screen and (max-width:600px){
-    
+    .grid2{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .grid3{
+        gap: 10px;
+    }
     .container{
     max-width: 100%;
     }
@@ -142,6 +200,8 @@ button i {
 button:hover{
     box-shadow: none;
 }
+
+transition: 0.5s;
 }
 
 
