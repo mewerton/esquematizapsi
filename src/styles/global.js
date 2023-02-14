@@ -94,6 +94,13 @@ button:hover{
 
 }
 
+.grid4{
+    
+    display: flex;
+    gap: 30px;
+
+}
+
 .flex{
     display: flex;
     
