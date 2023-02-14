@@ -18,7 +18,7 @@ export const Container =  styled.div`
 #heading h1{
     font-size: 45px;
     margin: 20px 0;
-    text-transform: capitalize;
+    
     color: ${({theme}) => theme.COLORS.PINK_900};
 }
 
