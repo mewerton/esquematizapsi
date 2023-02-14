@@ -13,8 +13,9 @@ import { Faq } from "../../components/Faq";
 export function Sobre(){
     return(
         <Container>
+            <HeaderB/>
             <div className="pageA">
-                <HeaderB/>
+                
                 <div className="title-page">
                     <TitleB subtitle={"UM GRUPO DE ESTUDOS REGADO A CAFÉ E O DESEJO DE COMPARTILHAR CONHECIMENTOS, ASSIM NASCEU O:"} title={"ESQUEMATIZA PSICOLOGIA"} />
                 </div>
