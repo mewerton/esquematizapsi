@@ -372,7 +372,7 @@ export const homeAbout = [
       cover: "../images/blog/b6.webp",
     },
   ]
-  export const testimonal = [
+  export const testimonial = [
     {
       id: 1,
       name: "ROGER SCOTT",
@@ -389,6 +389,27 @@ export const homeAbout = [
     },
     {
       id: 3,
+      name: "ROGER SCOTT",
+      post: "MARKETING MANAGER",
+      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      cover: "./images/testo/t3.webp",
+    },
+    {
+      id: 4,
+      name: "ROGER SCOTT",
+      post: "MARKETING MANAGER",
+      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      cover: "./images/testo/t3.webp",
+    },
+    {
+      id: 5,
+      name: "ROGER SCOTT",
+      post: "MARKETING MANAGER",
+      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      cover: "./images/testo/t3.webp",
+    },
+    {
+      id: 6,
       name: "ROGER SCOTT",
       post: "MARKETING MANAGER",
       desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
