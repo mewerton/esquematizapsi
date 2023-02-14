@@ -5,7 +5,7 @@ import { online } from "../../dummydata";
 export function OnlineCourses(){
    return(
     <Container>
-        <div className="online">
+        <section className="online">
             <div className="container">
                 <Title subtitle={"COURSES"} title={"Browse Our Online Courses"}/>
             <div className="content grid3">
@@ -21,7 +21,7 @@ export function OnlineCourses(){
                 ))}
             </div>
             </div>
-        </div>
+        </section>
     </Container>
    )
 }
