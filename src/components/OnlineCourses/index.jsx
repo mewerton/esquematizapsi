@@ -8,7 +8,6 @@ export function OnlineCourses(){
         <div className="online">
             <div className="container">
                 <Title subtitle={"COURSES"} title={"Browse Our Online Courses"}/>
-            </div>
             <div className="content grid3">
                 {online.map((val) => (
                     <div className="box">
@@ -20,6 +19,7 @@ export function OnlineCourses(){
                         <span>{val.course}</span>
                     </div>
                 ))}
+            </div>
             </div>
         </div>
     </Container>

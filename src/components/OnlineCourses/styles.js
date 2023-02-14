@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    max-width: 85%;
-    margin: auto;
+    
+    
     
     .online{
         text-align: center;
@@ -69,6 +69,7 @@ export const Container = styled.div`
     @media screen and (max-width:600px){
 
         max-width: 95%;
+        margin: auto;
     }
 
 `
