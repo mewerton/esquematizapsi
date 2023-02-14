@@ -33,7 +33,7 @@ export function AboutCard(){
                     </div>
                 </div>
             </section>
-            <AwRapper/>
+            {/* <AwRapper/> */}
         </Container>
     )
 

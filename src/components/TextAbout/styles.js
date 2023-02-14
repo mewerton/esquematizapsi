@@ -14,6 +14,13 @@ h3{
 p{
     text-align: justify;
     font-size: 18px;
+    color: #5f1a2c;
+}
+
+.text{
+    padding: 0rem 2rem 2rem 2rem;
+    background-color: rgba(255,255,255, 0.3);
+    border-radius: 10px;
 }
 
 @media screen and (max-width: 768px){
@@ -29,11 +36,17 @@ p{
 
 @media screen and (max-width: 600px){
 
-margin: 8rem 2rem 0rem 2rem;
+margin: 1rem 2rem 0rem 2rem;
 padding: 0rem 0rem 0rem 0rem;
 p{
 
     font-size: 14px;
+}
+
+.text{
+    padding: 0rem 1rem 1rem 1rem;
+    background-color: rgba(255,255,255, 0.3);
+    border-radius: 10px;
 }
 
 }

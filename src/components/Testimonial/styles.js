@@ -61,5 +61,8 @@ export const Container = styled.div`
     background-color: #fff;
     color: #5f1a2c;
 }
+@media screen and (max-width: 600px){
+    margin: 1rem;
+}
 
 `

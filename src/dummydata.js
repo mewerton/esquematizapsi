@@ -88,90 +88,90 @@ export const homeAbout = [
       priceAll: "$50 All Course",
       pricePer: "$5 per month",
     },
-    {
-      id: 4,
-      cover: "../images/courses/c4.png",
-      coursesName: "Introducing to Programming with WordPress",
-      courTeacher: [
-        {
-          dcover: "./images/back.webp",
-          name: "by Prabin Thapa Mager",
-          totalTime: "20 lectures (20 hrs)",
-        },
-      ],
-      priceAll: "$30 All Course",
-      pricePer: "$3 per month",
-    },
-    {
-      id: 5,
-      cover: "../images/courses/c5.png",
-      coursesName: "Introducing to Programming with ReactJS",
-      courTeacher: [
-        {
-          dcover: "./images/back.webp",
-          name: "by Sunil Bishowkaram",
-          totalTime: "100 lectures (150 hrs)",
-        },
-      ],
-      priceAll: "$300 All Course",
-      pricePer: "$30 per month",
-    },
-    {
-      id: 6,
-      cover: "../images/courses/c6.png",
-      coursesName: "Learn Frontend Programming Language",
-      courTeacher: [
-        {
-          dcover: "./images/back.webp",
-          name: "by Sunil Bishowkaram",
-          totalTime: "200 lectures (300 hrs)",
-        },
-      ],
-      priceAll: "$500 All Course",
-      pricePer: "$80 per month",
-    },
-    {
-      id: 7,
-      cover: "../images/courses/c7.png",
-      coursesName: "Introducing to with HTML / CSS",
-      courTeacher: [
-        {
-          dcover: "./images/back.webp",
-          name: "by Price",
-          totalTime: "20 lectures (50 hrs)",
-        },
-      ],
-      priceAll: "$20 All Course",
-      pricePer: "$2 per month",
-    },
-    {
-      id: 8,
-      cover: "../images/courses/c8.png",
-      coursesName: "Introducing to with JAVA",
-      courTeacher: [
-        {
-          dcover: "./images/back.webp",
-          name: "by Petter",
-          totalTime: "80 lectures (200 hrs)",
-        },
-      ],
-      priceAll: "$200 All Course",
-      pricePer: "$40 per month",
-    },
-    {
-      id: 9,
-      cover: "../images/courses/c9.png",
-      coursesName: "Introducing to with HTML / CSS / JAVASCRIPT",
-      courTeacher: [
-        {
-          dcover: "./images/back.webp",
-          name: "by Petter",
-          totalTime: "50 lectures (50 hrs)",
-        },
-      ],
-      priceAll: "$20 All Course",
-      pricePer: "$3 per month",
-    },
+    // {
+    //   id: 4,
+    //   cover: "../images/courses/c4.png",
+    //   coursesName: "Introducing to Programming with WordPress",
+    //   courTeacher: [
+    //     {
+    //       dcover: "./images/back.webp",
+    //       name: "by Prabin Thapa Mager",
+    //       totalTime: "20 lectures (20 hrs)",
+    //     },
+    //   ],
+    //   priceAll: "$30 All Course",
+    //   pricePer: "$3 per month",
+    // },
+    // {
+    //   id: 5,
+    //   cover: "../images/courses/c5.png",
+    //   coursesName: "Introducing to Programming with ReactJS",
+    //   courTeacher: [
+    //     {
+    //       dcover: "./images/back.webp",
+    //       name: "by Sunil Bishowkaram",
+    //       totalTime: "100 lectures (150 hrs)",
+    //     },
+    //   ],
+    //   priceAll: "$300 All Course",
+    //   pricePer: "$30 per month",
+    // },
+    // {
+    //   id: 6,
+    //   cover: "../images/courses/c6.png",
+    //   coursesName: "Learn Frontend Programming Language",
+    //   courTeacher: [
+    //     {
+    //       dcover: "./images/back.webp",
+    //       name: "by Sunil Bishowkaram",
+    //       totalTime: "200 lectures (300 hrs)",
+    //     },
+    //   ],
+    //   priceAll: "$500 All Course",
+    //   pricePer: "$80 per month",
+    // },
+    // {
+    //   id: 7,
+    //   cover: "../images/courses/c7.png",
+    //   coursesName: "Introducing to with HTML / CSS",
+    //   courTeacher: [
+    //     {
+    //       dcover: "./images/back.webp",
+    //       name: "by Price",
+    //       totalTime: "20 lectures (50 hrs)",
+    //     },
+    //   ],
+    //   priceAll: "$20 All Course",
+    //   pricePer: "$2 per month",
+    // },
+    // {
+    //   id: 8,
+    //   cover: "../images/courses/c8.png",
+    //   coursesName: "Introducing to with JAVA",
+    //   courTeacher: [
+    //     {
+    //       dcover: "./images/back.webp",
+    //       name: "by Petter",
+    //       totalTime: "80 lectures (200 hrs)",
+    //     },
+    //   ],
+    //   priceAll: "$200 All Course",
+    //   pricePer: "$40 per month",
+    // },
+    // {
+    //   id: 9,
+    //   cover: "../images/courses/c9.png",
+    //   coursesName: "Introducing to with HTML / CSS / JAVASCRIPT",
+    //   courTeacher: [
+    //     {
+    //       dcover: "./images/back.webp",
+    //       name: "by Petter",
+    //       totalTime: "50 lectures (50 hrs)",
+    //     },
+    //   ],
+    //   priceAll: "$20 All Course",
+    //   pricePer: "$3 per month",
+    // },
   ]
   export const online = [
     {
@@ -210,42 +210,42 @@ export const homeAbout = [
       courseName: "Information Software",
       course: "60 Courses",
     },
-    {
-      cover: "./images/courses/online/o7.png",
-      hoverCover: "./images/courses/online/o7.1.png",
-      courseName: "Health & Fitness",
-      course: "10 Courses",
-    },
-    {
-      cover: "./images/courses/online/o8.png",
-      hoverCover: "./images/courses/online/o8.1.png",
-      courseName: "Marketing",
-      course: "30 Courses",
-    },
-    {
-      cover: "./images/courses/online/o9.png",
-      hoverCover: "./images/courses/online/o9.1.png",
-      courseName: "Graphic Design",
-      course: "80 Courses",
-    },
-    {
-      cover: "./images/courses/online/o10.png",
-      hoverCover: "./images/courses/online/o10.1.png",
-      courseName: "Music",
-      course: "120 Courses",
-    },
-    {
-      cover: "./images/courses/online/o11.png",
-      hoverCover: "./images/courses/online/o11.1.png",
-      courseName: "Business Administration",
-      course: "17 Courses",
-    },
-    {
-      cover: "./images/courses/online/o12.png",
-      hoverCover: "./images/courses/online/o12.1.png",
-      courseName: "Web Management",
-      course: "17 Courses",
-    },
+    // {
+    //   cover: "./images/courses/online/o7.png",
+    //   hoverCover: "./images/courses/online/o7.1.png",
+    //   courseName: "Health & Fitness",
+    //   course: "10 Courses",
+    // },
+    // {
+    //   cover: "./images/courses/online/o8.png",
+    //   hoverCover: "./images/courses/online/o8.1.png",
+    //   courseName: "Marketing",
+    //   course: "30 Courses",
+    // },
+    // {
+    //   cover: "./images/courses/online/o9.png",
+    //   hoverCover: "./images/courses/online/o9.1.png",
+    //   courseName: "Graphic Design",
+    //   course: "80 Courses",
+    // },
+    // {
+    //   cover: "./images/courses/online/o10.png",
+    //   hoverCover: "./images/courses/online/o10.1.png",
+    //   courseName: "Music",
+    //   course: "120 Courses",
+    // },
+    // {
+    //   cover: "./images/courses/online/o11.png",
+    //   hoverCover: "./images/courses/online/o11.1.png",
+    //   courseName: "Business Administration",
+    //   course: "17 Courses",
+    // },
+    // {
+    //   cover: "./images/courses/online/o12.png",
+    //   hoverCover: "./images/courses/online/o12.1.png",
+    //   courseName: "Web Management",
+    //   course: "17 Courses",
+    // },
   ]
   export const team = [
     {
