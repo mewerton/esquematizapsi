@@ -25,7 +25,7 @@ export function TextAbout(){
                 A criação do curso foi um desafio e tanto, estávamos determinadas a oferecer o melhor conteúdo possível. Dividimos tarefas, cada uma trazendo sua expertise e experiência para a equipe. A colaboração mútua foi fundamental para o sucesso do projeto.
                 <br />
                 <br />
-                O primeiro grupo de estudos foi lançado em 2020, muitos psicólogos se inscreveram para aprender mais sobre a Terapia do Esquema, o que nos motivou bastante a continuar esse projeto que temos tanto carinho.
+                O primeiro grupo de estudos foi lançado em 2020, muitos psicólogos curiosos sobre a Terapia do Esquema se inscreveram, o que nos motivou bastante a continuar esse projeto que temos tanto carinho que que gaças a Deus vem crescendo mais a cada dia.
                 <br />
                 <br />
                 Em resumo, a história do “Esquematiza Psicologia” é um exemplo de como a paixão e a amizade podem ser combinadas para criar algo realmente transformador. Nosso projeto não apenas ensina a Terapia do Esquema, mas também inspira outros a seguirem seus sonhos e a se unirem em causas que acreditam.

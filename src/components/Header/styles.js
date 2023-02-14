@@ -65,6 +65,7 @@ header ul li a:hover{
         position: absolute;
         right: 50px;
         top: -25px;
+       
     }
 
     .mobile-nav{
@@ -73,6 +74,7 @@ header ul li a:hover{
         left: 0;
         width: 100%;
         background-color: ${({theme}) => theme.COLORS.BLUE_300};
+       
     }
 
     header ul li a{
