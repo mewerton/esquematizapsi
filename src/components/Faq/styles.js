@@ -29,9 +29,14 @@ export const Container = styled.div`
     background-color:rgba(255,255,255, 0.3);
     color: #5f1a2c;
 }
+
+.faq .accordion{
+    transition: 0.5s;
+}
+
 .faq .accordion:hover{
     background-color: pink;
-    color: #fff;
+    color: #5f1a2c;
 }
 
 `
