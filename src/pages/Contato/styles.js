@@ -58,6 +58,7 @@ export const Container = styled.div`
   margin-bottom: 15px;
   outline: none;
   border: 1px solid grey;
+  border-radius: 5px;
 }
 form .flexSB input:nth-child(1) {
   margin-right: 10px;
