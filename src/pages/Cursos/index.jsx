@@ -1,3 +1,4 @@
+import { AwRapper } from "../../components/AWrapper";
 import { CoursesCard } from "../../components/CoursesCard";
 import { Footer } from "../../components/Footer";
 import { HeaderB } from "../../components/HeaderB";
@@ -10,10 +11,11 @@ export function Cursos(){
     return(
         <Container>
             <HeaderB/>
-            <Title subtitle={"CURSOS"} title={"Grupo de estudo, Cine TE, Ebook e muito mais!"}/>
+            <Title subtitle={"Grupo de estudos, Cine TE, Ebook e muito mais!"} title={"CONFIRA NOSSOS CURSOS"}/>
             <CoursesCard/>
             <OnlineCourses/>
             <Testimonial/>
+            
             <Footer/>
         </Container>
     )

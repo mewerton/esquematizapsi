@@ -7,7 +7,7 @@ export function OnlineCourses(){
     <Container>
         <section className="online">
             <div className="container">
-                <Title subtitle={"COURSES"} title={"Browse Our Online Courses"}/>
+                <Title subtitle={"MATERIAIS"} title={"LIVROS RECOMENDADOS"}/>
             <div className="content grid3">
                 {online.map((val) => (
                     <div className="box" key={val.courseName}>

@@ -1,7 +1,9 @@
+import { AwRapper } from "../../components/AWrapper";
 import { Footer } from "../../components/Footer";
 import { HeaderB } from "../../components/HeaderB";
 import { Team } from "../../components/Team";
 import { TeamCard } from "../../components/TeamCard";
+import { TextTeam } from "../../components/TextTeam";
 import { Title } from "../../components/Title";
 import { Container } from "./styles";
 
@@ -10,6 +12,7 @@ export function Terapeutas(){
         <Container>
             <HeaderB/>
             <Team/>
+            <TextTeam/>
             <Footer/>
         </Container>
     )

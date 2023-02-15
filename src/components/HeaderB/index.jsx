@@ -21,7 +21,7 @@ export function HeaderB(){
                         <li><Link to="/contato">Contato</Link></li>
                     </ul>
                     <div className="start">
-                        <div className="button">CERTIFICADO</div>
+                        <div className="button">ÁREA ALUNO</div>
                     </div>
                     <button className="toggle" onClick={() => setClick(!click)}>
                         {click ? <i className="fa fa-times"></i> : <i className="fa fa-bars"></i>}

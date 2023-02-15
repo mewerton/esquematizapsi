@@ -250,8 +250,8 @@ export const homeAbout = [
   export const team = [
     {
       id: 1,
-      cover: "./images/team/t1.jpg",
-      name: "Thássia Molises",
+      cover: "./images/team/t3.jpg",
+      name: "Jessica Molises",
       work: "TERAPEUTA DO ESQUEMA",
     },
     {
@@ -262,10 +262,12 @@ export const homeAbout = [
     },
     {
       id: 3,
-      cover: "./images/team/t3.jpg",
-      name: "Jessica Molises",
+      cover: "./images/team/t1.jpg",
+      name: "Thássia Molises",
       work: "TERAPEUTA DO ESQUEMA",
     },
+    
+    
     
   ]
   export const price = [
@@ -416,3 +418,43 @@ export const homeAbout = [
       cover: "./images/testo/t3.webp",
     },
   ]
+
+  export const teamText = [
+    {
+      id: 1,
+      name: "Thássia Molises",
+      post: "Psicóloga • CRP 15/2950",
+      desc: "Durante a graduação em Psicologia tive o privilégio de estagiar nas varas de família e senti o “chamado” pra trabalhar com crianças e famílias.",
+      desc2:"Além da minha especialização e formações em TCC, e TCC na infância , fiz também cursos voltados para Parentalidade (Disciplina Positiva, Parentalidade consciente) e a formação em Terapia do Esquema, que tem sido minha maior fonte de estudos. Atualmente me dedico exclusivamente ao consultório, atendendo crianças, adolescentes e adultos e aqui no projeto Esquematizapsi.",
+      desc3:"Espero que tenham gostado de conhecer um pouco mais sobre cada uma de nós.",
+      desc4:"Com carinho, Thássia.",
+     
+      cover: "./images/testo/th.png",
+    },
+    {
+      id: 2,
+      name: "Luanna Ávilla",
+      post: "Psicóloga • CRP 15/5512",
+      desc: "Estou na psicologia há 4 anos, enquanto isso me formei em Terapia do Esquema e Terapia Cognitivo Comportamental, atualmente me debruçando na formação para supervisora.",
+      desc2:"Desde o início me apaixonei pela prática clínica e venho atuando com o público jovem adulto. Passei dois anos sendo conciliadora de conflitos e psicóloga de uma Vara de Família, experiência que me fez pensar o quanto a vida precisa de relações mais saudáveis para o nosso equilíbrio emocional!",
+      desc3:"Espero que tenha gostado, e ficaria feliz de saber o que vc gostaria de ver por aqui!",
+      desc4:"Bjo, Lu",
+   
+      cover: "./images/testo/lu.png",
+    },
+    {
+      id: 3,
+      name: "Jessica Molises",
+      post: "Psicóloga • CRP 15/3327",
+      desc: `Sou psicóloga há dez anos e durante esse tempo fiz formação em Terapia Sexual, Terapia Cognitivo Comportamental, especialização em Neuropsicologia, cursos em orientação de Pais, Parentalidade, e Políticas públicas em saúde. Atuei na conciliação de conflitos familiares em Varas de Família, trabalhei por seis anos na saúde pública, e há cerca de oito anos me dedico ao consultório.`,
+      desc3:"O que achou de me conhecer mais um pouquinho? Tem algo que você gostaria de saber?",
+      desc2:"Em 2018 fiz a formação e me apaixonei pela terapia do Esquema. Atualmente estou me especializando em sexualidade humana. Hoje trabalho exclusivamente com psicoterapia com adolescentes e adultos, e com o projeto Esquematiza Psi.",
+      desc4:"Com carinho, Jessica",
+      cover: "./images/testo/je.png",
+    },
+    
+  ]
+
+  
+
+  

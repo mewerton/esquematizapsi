@@ -1,16 +1,16 @@
-import { testimonial } from "../../dummydata";
+import { teamText } from "../../dummydata";
 import { Title } from "../Title";
 import { Container } from "./styles";
 
-export function Testimonial(){
+export function TextTeam(){
     return(
         <Container>
-            <section className="testimonial padding">
+            <section className="testimonial ">
                 <div className="container">
-                    <Title subtitle={"TESTEMUNHAS"} title={"PROFISSIONAIS NOS RECOMENDAM"}/>
+                    <Title subtitle={"SAIBA MAIS!"} />
 
-                    <div className="content grid2">
-                        {testimonial.map((val) => (
+                    <div className="content">
+                        {teamText.map((val) => (
                             <div className="items shadow" key={val.id}>
                                 <div className="box flex">
                                     <div className="img">
@@ -22,7 +22,18 @@ export function Testimonial(){
                                         <span>{val.post}</span>
                                     </div>
                                 </div>
-                                <p>{val.desc}</p>
+                                
+                                    <p>{val.desc}</p>
+                                    <br />
+                                    <p>{val.desc2}</p>
+                                    <br />
+                                    <p>{val.desc3}</p>
+                                    <br />
+                                    <p>{val.desc4}</p>
+                                    <br />
+                                    
+                                   
+                                
                             </div>
                         ))}
                     </div>
