@@ -67,7 +67,7 @@ export const Container = styled.div`
     
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 605px){
     .margin{
         height: 40vh;
     }
@@ -92,6 +92,10 @@ export const Container = styled.div`
     padding: 5px 5px;
     font-size: 14px;
    
+    }
+
+    button{
+        margin-bottom: 2rem;
     }
 
     

@@ -17,8 +17,6 @@ export const Container = styled.div`
     height: 100%;
     object-fit: cover;
     
-  
-
 }
 
 .aboutHome .right{
@@ -64,6 +62,10 @@ export const Container = styled.div`
 
 }
 
+.aboutHome .item {
+        gap: 1rem;
+    }
+
 @media screen and (max-width: 768px){
     
     .aboutHome .left img{
@@ -98,6 +100,7 @@ export const Container = styled.div`
 
 }
 
+
 @media screen and (max-width: 768px){
     .aboutHome .item {
         
@@ -111,9 +114,7 @@ export const Container = styled.div`
     
 }
 
-    .aboutHome .item {
-        gap: 1rem;
-    }
+   
 
     .right{
         margin-top: -3rem;

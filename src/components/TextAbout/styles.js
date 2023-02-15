@@ -36,7 +36,7 @@ p{
 
 @media screen and (max-width: 600px){
 
-margin: 1rem 2rem 0rem 2rem;
+margin: 1rem 2rem 2rem 2rem;
 padding: 0rem 0rem 0rem 0rem;
 p{
 

@@ -25,6 +25,15 @@ height: 100vh;
 
 .title-page{
     margin: 8rem 2rem 0 2rem;
+    
+}
+
+.title-page span, h1{
+    color: pink;
+}
+
+.title-page h1, span{
+    color: pink;
 }
 
 .title-page .subtitle{
@@ -33,6 +42,11 @@ height: 100vh;
 
 @media screen and (max-width: 600px){
 
+    .title-page{
+    margin: 8rem 1rem 0 1rem;
+    
+}
+
     .image-back img{
     
         max-height:670px;
@@ -40,7 +54,7 @@ height: 100vh;
     }
 
     .pageA{
-    margin-bottom: -2rem;
+    
 }
 
 }

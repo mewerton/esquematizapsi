@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const Container =  styled.div`
+
 #heading{
     text-align: center;
     padding: 40px 0;
@@ -33,6 +34,10 @@ p{
     #heading h3{
         margin-top: 2.5rem;
         font-size: 18px;
+    }
+
+    #heading h1{
+    font-size: 30px;
     }
 }
 

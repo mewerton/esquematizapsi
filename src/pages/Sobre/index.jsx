@@ -18,7 +18,7 @@ export function Sobre(){
             <div className="pageA">
                 
                 <div className="title-page">
-                    <TitleB subtitle={"UM GRUPO DE ESTUDOS REGADO A CAFÉ E O DESEJO DE COMPARTILHAR CONHECIMENTOS, ASSIM NASCEU O:"} title={"ESQUEMATIZA PSICOLOGIA"} />
+                    <TitleB subtitle={"UM GRUPO DE ESTUDOS REGADO A CAFÉ E O DESEJO DE COMPARTILHAR CONHECIMENTOS, ASSIM NASCEU O"} title={"ESQUEMATIZA PSICOLOGIA"} />
                 </div>
                 <div className="image-back">
                     <img src={AmigasImg} alt="" />

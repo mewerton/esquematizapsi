@@ -25,7 +25,7 @@ export function Hero(){
                     </div>
                 </div>
             </section>
-            <div className="margin"></div>
+            <div className="padding"></div>
         </Container>
     )
 
