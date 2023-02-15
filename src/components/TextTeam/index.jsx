@@ -7,7 +7,7 @@ export function TextTeam(){
         <Container>
             <section className="testimonial ">
                 <div className="container">
-                    <Title subtitle={"SAIBA MAIS!"} />
+                    <Title subtitle={"CONHEÇA-NOS"} />
 
                     <div className="content">
                         {teamText.map((val) => (
