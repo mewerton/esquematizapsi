@@ -36,9 +36,9 @@ p{
 margin: 7rem 4rem 0rem 4rem;
 padding: 0rem 2rem 2rem 2rem;
 
-p{
-    font-size: 16px;
-}
+    p{
+        font-size: 16px;
+    }
 
 }
 
@@ -46,15 +46,15 @@ p{
 
 margin: 1rem 2rem 2rem 2rem;
 padding: 0rem 0rem 0rem 0rem;
-p{
+    p{
 
-    font-size: 14px;
-}
+        font-size: 14px;
+    }
 
-.text{
-    padding: 0rem 1rem 1rem 1rem;
-    background-color: rgba(255,255,255, 0.3);
-    border-radius: 10px;
+    .text{
+        padding: 0rem 1rem 1rem 1rem;
+        background-color: rgba(255,255,255, 0.3);
+        border-radius: 10px;
 }
 
 }
