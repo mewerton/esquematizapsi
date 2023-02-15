@@ -14,13 +14,21 @@ h3{
 p{
     text-align: justify;
     font-size: 18px;
-    color: #5f1a2c;
+    color: gray;
 }
 
 .text{
     padding: 0rem 2rem 2rem 2rem;
-    background-color: rgba(255,255,255, 0.3);
+    background-color: white;
     border-radius: 10px;
+    transition: 0.5s;
+}
+
+.text:hover{
+    background-color: #b66d8a;
+    p{
+    color: white;
+}
 }
 
 @media screen and (max-width: 768px){
