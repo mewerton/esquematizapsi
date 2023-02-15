@@ -9,6 +9,7 @@ import { TitleB } from "../../components/TitleB";
 import { AboutCard } from "../../components/AboutCard";
 import { TextAbout } from "../../components/TextAbout";
 import { Faq } from "../../components/Faq";
+import { Footer } from "../../components/Footer";
 
 export function Sobre(){
     return(
@@ -28,6 +29,7 @@ export function Sobre(){
             <AboutCard/>
             <Faq/>
             <TextAbout/>
+            <Footer/>
             
         </Container>
     )

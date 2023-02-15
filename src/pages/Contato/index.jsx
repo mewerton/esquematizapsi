@@ -1,3 +1,4 @@
+import { Footer } from "../../components/Footer";
 import { HeaderB } from "../../components/HeaderB";
 import { Title } from "../../components/Title";
 import { Container } from "./styles";
@@ -58,6 +59,7 @@ export function Contato(){
                     </div>
                 </div>
             </section>
+            <Footer/>
         </Container>
     )
 

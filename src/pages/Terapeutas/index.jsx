@@ -1,3 +1,4 @@
+import { Footer } from "../../components/Footer";
 import { HeaderB } from "../../components/HeaderB";
 import { Team } from "../../components/Team";
 import { TeamCard } from "../../components/TeamCard";
@@ -9,6 +10,7 @@ export function Terapeutas(){
         <Container>
             <HeaderB/>
             <Team/>
+            <Footer/>
         </Container>
     )
 }

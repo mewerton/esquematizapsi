@@ -1,4 +1,5 @@
 import { CoursesCard } from "../../components/CoursesCard";
+import { Footer } from "../../components/Footer";
 import { HeaderB } from "../../components/HeaderB";
 import { OnlineCourses } from "../../components/OnlineCourses";
 import { Testimonial } from "../../components/Testimonial";
@@ -13,6 +14,7 @@ export function Cursos(){
             <CoursesCard/>
             <OnlineCourses/>
             <Testimonial/>
+            <Footer/>
         </Container>
     )
 }
