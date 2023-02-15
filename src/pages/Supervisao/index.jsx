@@ -3,6 +3,8 @@ import { HeaderB } from "../../components/HeaderB";
 import { TitleB } from "../../components/TitleB";
 import { Container } from "./styles";
 import AmigasImg from "../../assets/mao.jpg";
+import { SupervisionCard } from "../../components/SupervisionCard";
+import { FaqSupervision } from "../../components/FaqSupervision";
 
 export function Supervisao(){
     return(
@@ -21,6 +23,8 @@ export function Supervisao(){
                 </div>
 
             </div>
+            <SupervisionCard/>
+            <FaqSupervision/>
             <Footer/>
         </Container>
     )

@@ -18,6 +18,36 @@ export const homeAbout = [
       desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     },
   ]
+
+  export const supervisionAbout = [
+    {
+      id: 1,
+      cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
+      title: "Melhor compreensão dos casos",
+      desc: "Ajuda os profissionais a obter uma compreensão mais profunda das necessidades dos clientes e dos processos terapêuticos, permitindo que eles prestem um atendimento mais efetivo.",
+    },
+    {
+      id: 2,
+      cover: "https://img.icons8.com/ios/80/000000/diploma.png",
+      title: "Desenvolvimento de habilidades clínicas",
+      desc: "A supervisão oferece um ambiente de suporte para os psicólogos aprimorarem suas habilidades clínicas, aumentarem sua autoconfiança e se tornarem mais eficazes como terapeutas.",
+    },
+    {
+      id: 3,
+      cover: "https://img.icons8.com/ios/80/000000/athlete.png",
+      title: "Identificação de padrões e temas",
+      desc: "Discutir casos com supervisores permite que os psicólogos identifiquem padrões e temas que podem ser úteis na compreensão dos processos terapêuticos e no planejamento do tratamento.",
+    },
+    {
+      id: 3,
+      cover: "https://img.icons8.com/ios/80/000000/athlete.png",
+      title: "Promoção da resolução de problemas",
+      desc: "A supervisão de casos é um ambiente encorajador para discutir desafios clínicos e buscar soluções mais eficazes, promovendo um atendimento de maior qualidade para os clientes.",
+    },
+    
+  ]
+
+
   export const awrapper = [
     {
       cover: "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
@@ -318,6 +348,34 @@ export const homeAbout = [
       desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
     },
   ]
+
+  export const faqSupervision = [
+    {
+      title: "Qual é o papel do supervisor na supervisão?",
+      desc: "Como supervisoras, nosso papel é fornecer feedback construtivo e orientação para ajudá-lo a aprimorar suas habilidades clínicas, garantindo que você esteja atendendo aos padrões éticos e legais da profissão. Nós ajudamos a identificar áreas de desenvolvimento e oferecemos estratégias para superar obstáculos, permitindo que você continue aprimorando sua prática clínica e se desenvolvendo profissionalmente.",
+    },
+    {
+      title: "Como escolher o supervisor certo para a minha prática clínica?",
+      desc: "Escolha um supervisor que tenha experiência clínica e conhecimentos em uma variedade de abordagens terapêuticas, para que possa oferecer orientação personalizada e abrangente para você. Além disso, é importante encontrar um supervisor com quem você se sinta confortável para discutir suas preocupações, que tenha uma abordagem encorajadora e construtiva para a supervisão.",
+    },
+    {
+      title: "Qual é a frequência ideal de supervisão?",
+      desc: "A frequência ideal de supervisão pode variar de acordo com suas necessidades e objetivos individuais, então trabalharemos com você para encontrar a melhor frequência para atender às suas necessidades. Algumas pessoas optam por uma supervisão semanal, enquanto outras podem preferir sessões mais espaçadas. É importante encontrar um equilíbrio que funcione para você.",
+    },
+    {
+      title: "Como devo abordar a discussão de casos na supervisão?",
+      desc: "A discussão de casos é um dos principais objetivos da supervisão, e nossa abordagem é incentivar a reflexão crítica e o pensamento colaborativo para ajudá-lo a encontrar soluções mais eficazes. Faremos perguntas abertas e orientaremos você através de um processo de pensamento crítico para ajudá-lo a desenvolver um plano de tratamento eficaz para seus pacientes.",
+    },
+    {
+      title: "O que devo esperar do processo de supervisão?",
+      desc: "Você pode esperar um ambiente seguro e de suporte, onde você pode discutir seus casos e receber feedback construtivo para aprimorar suas habilidades clínicas. Esperamos que você venha com uma atitude aberta e pronta para aprender, e nós forneceremos as ferramentas e recursos necessários para ajudá-lo a crescer profissionalmente.",
+    },
+    {
+      title: "Como a supervisão pode me ajudar a melhorar minha prática clínica e meu desenvolvimento profissional?",
+      desc: "A supervisão pode ajudá-lo a aprimorar suas habilidades clínicas e desenvolver um plano de tratamento mais eficaz, o que pode levar a melhores resultados para seus pacientes e ao mesmo tempo aumentar sua confiança e sucesso profissional. Também podemos ajudá-lo a identificar áreas de desenvolvimento, fornecendo orientação e suporte para superar obstáculos e promover seu crescimento profissional.",
+    },
+  ]
+
   export const blog = [
     {
       id: 1,
