@@ -146,7 +146,7 @@ button:hover{
 }
 
 
-@media screen and (max-width:1061px){
+@media screen and (max-width:1126px){
     .grid2{
     grid-template-columns: repeat(2, 1fr);
    

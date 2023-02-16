@@ -17,7 +17,7 @@ export const Container = styled.div`
         display: flex;
         flex-direction: column;
         align-items: center;
-        justify-content: space-around;
+        justify-content: space-between;
     }
 
     .online .img{
@@ -37,7 +37,7 @@ export const Container = styled.div`
         font-weight: 500;
         font-size: 14px;
         margin: 10px 0;
-        line-height: 25px;
+        line-height: 20px;
         text-align: start;
     }
 
@@ -53,7 +53,7 @@ export const Container = styled.div`
     }
 
     .box{
-        height: 300px;
+        height: 320px;
         
     }
 
@@ -62,7 +62,7 @@ export const Container = styled.div`
         padding: 5px 20px;
         font-weight: 500;
         font-size: 15px;
-        color: pink;
+        color: #5f1a2c;
         border-radius: 5px;
 
     }
@@ -73,7 +73,7 @@ export const Container = styled.div`
 
     .online .box:hover{
         background-color: pink;
-        border-radius: 5px;
+        
         cursor: pointer;
     }
 
@@ -84,14 +84,24 @@ export const Container = styled.div`
         left: 0;
     }
 
-    .online .box:hover h1{
-        color: #fff;
-    }
-
+   
     @media screen and (max-width:600px){
 
         max-width: 95%;
         margin: auto;
+
+        .author p{
+            font-size: 12px;
+        }
+        .online .box h1{
+     
+        font-size: 12px;
+    
+        line-height: 18px;
+      
+        }
+
+
     }
 
 `
