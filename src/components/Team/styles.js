@@ -46,7 +46,7 @@ export const Container = styled.div`
     .team .details h2 {
         font-weight: 500;
         font-size: 20px;
-        transition: 0.5s;
+        
         }
 
     .team .details p {
@@ -58,7 +58,7 @@ export const Container = styled.div`
 
     .team .items:hover {
         background-color: pink;
-        color: #fff;
+        color: black;
         cursor: pointer;
         }
 
