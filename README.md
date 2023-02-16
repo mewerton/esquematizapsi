@@ -1,14 +1,12 @@
- Plataforma de ensino para Terapeutas do Esquema
-
- <p align="center">
-  <h1 align="center"><a href="#"> Plataforma de ensino - esquematizapsi</a></h1>
+  <p align="center">
+  <h1 align="center"><a href="#"> Website - Esquematiza Psicologia</a></h1>
 </p>
 
 <h4 align="center"> 
-	 Status: Em desenvolvimento... 
+	 Status: Finalizado 
 </h4>
 <p align="center">
-  <h4 align="center"><a href="#">https:...</a></h4>
+  <h4 align="center"><a href="https://esquematizapsi.com.br/">https://esquematizapsi.com.br/</a></h4>
 </p>
 
 <p align="center">
@@ -17,7 +15,7 @@
 
 ## 💻 Sobre:
 
-A aplicação em desenvolvimento é uma plataforma de cursos online para estudantes e profissionais da área de psicologia que buscam conhecimentos sobre a Terapia do Esquema.
+A aplicação em desenvolvida é um site para um grupo de Terapeuras de Esquematiza Psicologia, apresentando seus serviços e cursos online para estudantes e profissionais da área de psicologia que buscam conhecimentos sobre a Terapia do Esquema.
 
 Neste projeto estão sendo abordados os seguintes temas:
 
@@ -37,7 +35,7 @@ Neste projeto estão sendo abordados os seguintes temas:
 
 ## 🛠 Tecnologias
 
-Este projeto será desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
@@ -47,7 +45,7 @@ Este projeto será desenvolvido com as seguintes tecnologias:
 ---
 
 ## Deploy do projeto.
-https://...
+https://esquematizapsi.com.br/
 
 
 ---
