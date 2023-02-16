@@ -39,4 +39,13 @@ export const Container = styled.div`
     color: #5f1a2c;
 }
 
+@media screen and (max-width: 600px){
+    .faq h2{
+        font-size: 14px;
+}
+    .faq p{
+    font-size: 14px;
+}
+}
+
 `

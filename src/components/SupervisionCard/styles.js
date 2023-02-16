@@ -107,7 +107,7 @@ export const Container = styled.div`
 @media screen and (max-width: 600px){
 
     .aboutHome .item p{
-    font-size: 12px;
+    font-size: 14px;
     
 }
 

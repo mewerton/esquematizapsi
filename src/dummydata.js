@@ -2,20 +2,20 @@ export const homeAbout = [
     {
       id: 1,
       cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
-      title: "Online Courses",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      title: "Cursos online",
+      desc: "Com o curso de Terapia do Esquema online, você tem a vantagem de estudar no seu próprio ritmo e de qualquer lugar, tendo acesso a um conteúdo de alta qualidade e a terapeutas altamente capacitadas.",
     },
     {
       id: 2,
       cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-      title: "Earn A Certificates",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      title: "Certificado",
+      desc: "Ao obter a certificação do curso de Terapia do Esquema, você pode comprovar seus conhecimentos e habilidades nessa abordagem terapêutica reconhecida e valorizada no mercado.",
     },
     {
       id: 3,
       cover: "https://img.icons8.com/ios/80/000000/athlete.png",
-      title: "Learn with Expert",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      title: "Especialistas em TE",
+      desc: "Aprender Terapia do Esquema com especialistas nessa abordagem significa ter acesso a um conhecimento profundo e atualizado sobre essa técnica terapêutica, além de se beneficiar com a experiência clínica de profissionais capacitados na área.",
     },
   ]
 
@@ -324,28 +324,40 @@ export const homeAbout = [
   ]
   export const faq = [
     {
-      title: "How to Enroll This Online Courses?",
-      desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      title: "Qual é a base teórica da Terapia do Esquema?",
+      desc: "Nossos cursos se baseiam na Terapia do Esquema, uma abordagem terapêutica integrativa que combina teorias cognitivas, comportamentais e psicodinâmicas.",
     },
     {
-      title: "Where It is hidden by default, until the collapse?",
-      desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      title: "Como os cursos são ministrados?",
+      desc: "Nossos cursos são ministrados online, em um ambiente virtual interativo, com vídeos, leituras e atividades práticas. Aprendizado online é uma excelente opção para quem tem uma agenda apertada ou não pode comparecer a aulas presenciais.",
     },
     {
-      title: "How It is hidden by default, until the collapse?",
-      desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      title: "Qual é o nível de dificuldade dos cursos?",
+      desc: "Os nossos cursos são oferecidos em diferentes níveis de dificuldade, do básico ao avançado, para que você possa escolher o curso que melhor atenda às suas necessidades e nível de conhecimento.",
     },
     {
-      title: "How to Enroll This Online Courses?",
-      desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      title: "Os cursos incluem aulas práticas?",
+      desc: "Sim, nossos cursos incluem aulas práticas e atividades para aplicação dos conceitos em situações reais.",
     },
     {
-      title: "Where It is hidden by default, until the collapse?",
-      desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      title: "Os cursos oferecem certificação?",
+      desc: "Sim, nossos cursos oferecem certificação, o que pode ser uma ótima maneira de complementar sua formação e destacar suas habilidades no mercado de trabalho.",
     },
     {
-      title: "How It is hidden by default, until the collapse?",
-      desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      title: "Como o Esquematiza Psicologia garante a qualidade dos cursos?",
+      desc: "A qualidade dos nossos cursos é garantida por um grupo de psicólogas altamente capacitadas com experiência em Terapia do Esquema, além de um processo rigoroso de revisão e atualização dos conteúdos.",
+    },
+    {
+      title: "Há alguma política de reembolso em caso de insatisfação com o curso?",
+      desc: "Sim, oferecemos uma política de reembolso para garantir a satisfação dos nossos alunos. Caso não esteja satisfeito com o curso, é possível solicitar o reembolso no prazo de 7 dias.",
+    },
+    {
+      title: "Os cursos abrangem diferentes abordagens terapêuticas ou são exclusivamente focados na Terapia do Esquema?",
+      desc: "Nossos cursos são exclusivamente focados na Terapia do Esquema, permitindo que você se aprofunde em uma abordagem terapêutica específica.",
+    },
+    {
+      title: "Os cursos são adequados para psicólogos em formação ou apenas para psicólogos já formados?",
+      desc: "Nossos cursos são adequados tanto para psicólogos em formação quanto para psicólogos já formados, permitindo que você adquira novos conhecimentos e habilidades ou aprimore sua formação.",
     },
   ]
 
