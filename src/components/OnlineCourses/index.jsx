@@ -13,10 +13,15 @@ export function OnlineCourses(){
                     <div className="box" key={val.courseName}>
                         <div className="img">
                             <img src={val.cover} alt="" />
-                            <img src={val.hoverCover} alt="" className="show" />
+                            
                         </div>
                         <h1>{val.courseName}</h1>
-                        <span>{val.course}</span>
+                        <div className="author">
+                            
+                            <p>de {val.authorName}</p>
+                        </div>
+                        <a href={val.link} target="_blank"><span>{val.course}</span></a>
+                        
                     </div>
                 ))}
             </div>

@@ -13,6 +13,11 @@ export const Container = styled.div`
         background-color: #fff;
         padding: 30px 20px;
         transition: 0.5s;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
     }
 
     .online .img{
@@ -28,11 +33,28 @@ export const Container = styled.div`
         object-fit: cover;
     }
 
-    .online h1{
+    .online .box h1{
         font-weight: 500;
-        font-size: 20px;
-        margin: 20px 0;
-        line-height: 30px;
+        font-size: 14px;
+        margin: 10px 0;
+        line-height: 25px;
+        text-align: start;
+    }
+
+    .author p{
+        display: flex;
+        flex-direction: row;
+        
+        font-size: 14px;
+        font-weight: 500;
+        color: gray;
+        text-align: start;
+        margin-bottom: 1rem;
+    }
+
+    .box{
+        height: 300px;
+        
     }
 
     .online span{
