@@ -38,6 +38,10 @@ header ul li a:hover{
     display: none;
 }
 
+.flexSB button{
+    box-shadow: none;
+}
+
 @media screen and (max-width: 920px){
     .start{
         clip-path: none;

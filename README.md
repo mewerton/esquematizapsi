@@ -27,7 +27,10 @@ Neste projeto estão sendo abordados os seguintes temas:
 - [Styled Components](https://styled-components.com/)
 - [React Router Dom](https://react-icons.github.io/react-icons/)
 - [React Icons](https://react-icons.github.io/react-icons)
+- [Framer Motion](https://www.npmjs.com/package/framer-motion)
 - [Font Awesome](https://cdnjs.com/libraries/font-awesome)
+
+
 
 
 ---

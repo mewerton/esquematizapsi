@@ -3,9 +3,16 @@ import { HeaderB } from "../../components/HeaderB";
 import { Title } from "../../components/Title";
 import { Container } from "./styles";
 
+import { motion } from "framer-motion"
+
 export function Contato(){
     return(
         <Container>
+        <motion.div
+            initial={{ opacity: 0}}
+            animate={{ opacity: 1 }}  
+            exit={{ opacity:0 }}             
+            >
             <HeaderB/>
             <Title title={"CONTATO"}/>
             <section className="contacts padding">
@@ -13,11 +20,7 @@ export function Contato(){
 
                     <div className="right row">
                         <h1>Entre em contato com nossas terapeutas</h1>
-                          
-
                         <div className='items  '>
-                            
-                        
                         <div className='box'>
                             <div className="contact">
                                 <p> Jéssica</p>
@@ -59,6 +62,7 @@ export function Contato(){
                     </div>
                 </div>
             </section>
+        </motion.div>
             <Footer/>
         </Container>
     )

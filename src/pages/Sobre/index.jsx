@@ -11,9 +11,16 @@ import { TextAbout } from "../../components/TextAbout";
 import { Faq } from "../../components/Faq";
 import { Footer } from "../../components/Footer";
 
+import { motion } from "framer-motion"
+
 export function Sobre(){
     return(
         <Container>
+            <motion.div
+                initial={{ opacity: 0}}
+                animate={{ opacity: 1 }}
+                exit={{ opacity:0 }} 
+            >
             <HeaderB/>
             <div className="pageA">
                 
@@ -29,9 +36,12 @@ export function Sobre(){
             <AboutCard/>
             <Faq/>
             <TextAbout/>
+
+            </motion.div>
             <Footer/>
             
         </Container>
     )
 
 }
+

@@ -83,7 +83,7 @@ form .flexSB input:nth-child(1) {
 @media screen and (max-width: 768px) {
   .contacts .container {
     flex-direction: column;
-    
+    margin: 1rem;
     
   }
   .contacts iframe {

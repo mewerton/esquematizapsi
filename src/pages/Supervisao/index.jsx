@@ -6,9 +6,18 @@ import AmigasImg from "../../assets/mao.jpg";
 import { SupervisionCard } from "../../components/SupervisionCard";
 import { FaqSupervision } from "../../components/FaqSupervision";
 
+import { motion } from "framer-motion"
+
 export function Supervisao(){
     return(
         <Container>
+            <motion.div
+                initial={{ opacity: 0}}
+                animate={{ opacity: 1 }}
+                exit={{ opacity:0 }} 
+            >
+
+            
             <HeaderB/>
             <div className="pageA">
                 
@@ -25,6 +34,7 @@ export function Supervisao(){
             </div>
             <SupervisionCard/>
             <FaqSupervision/>
+            </motion.div>
             <Footer/>
         </Container>
     )
