@@ -12,9 +12,12 @@ export function Footer(){
                         <span>Psicologia</span>
                         <p>Terapia do Esquema: uma abordagem eficaz para tratamento de problemas emocionais</p>
 
-                        <i className='fab fa-facebook-f icon'></i>
-                        <i className='fab fa-whatsapp icon'></i>
-                        <i className='fab fa-instagram icon'></i>
+                        {/* <a href="" target="_blank">
+                            <i className='fab fa-whatsapp icon'></i>
+                        </a> */}
+                        <a href="https://www.instagram.com/esquematizapsi/" target="_blank">
+                            <i className='fab fa-instagram icon'></i>
+                        </a>
                     </div>
                     <div className='box link'>
                         <h3>Explorar</h3>
@@ -49,8 +52,9 @@ export function Footer(){
                 </div>
       </footer>
       <div className='legal'>
+        
         <p>
-        Copyright ©2023 Todos os direitos reservados | Desenvolvedor Mewerton Melo
+        Copyright ©2023 Todos os direitos reservados | <a href="https://mewerton.com.br/">Desenvolvedor Mewerton Melo</a>
         </p>
       </div>
         </Container>

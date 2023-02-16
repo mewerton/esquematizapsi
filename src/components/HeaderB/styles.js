@@ -29,7 +29,7 @@ header ul li a:hover{
 
 .start{
     background-color: ${({theme}) => theme.COLORS.BLUE_300};
-    padding: 30px 70px;
+    padding: 30px 40px;
     color: ${({theme}) => theme.COLORS.WHITE};
     clip-path: polygon(10% 0, 100% 0, 100% 100%, 0 100%);
 
@@ -42,7 +42,7 @@ header ul li a:hover{
     box-shadow: none;
 }
 
-@media screen and (max-width: 920px){
+@media screen and (max-width: 940px){
     .start{
         clip-path: none;
 

@@ -77,6 +77,14 @@ footer .last ul li {
 footer a{
     color: gray;
 }
+
+.legal p a{
+    color: gray;
+}
+.legal p a:hover{
+    color: black;
+}
+
 footer a:hover{
     color:  ${({theme}) => theme.COLORS. PINK_900};
 }
@@ -88,7 +96,7 @@ footer .last i {
 }
 .legal {
     text-align: center;
-    padding: 10px 0;
+    padding: 15px 0;
     color: grey;
     background-color: #e9e9e9;
 }

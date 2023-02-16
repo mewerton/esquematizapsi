@@ -38,6 +38,10 @@ height: 100vh;
 
 @media screen and (max-width: 600px){
 
+    .title-page{
+        margin: 4rem 1rem 0 1rem;
+    
+    }
     .image-back img{
     
         max-height:670px;

@@ -1,6 +1,7 @@
 import { Container } from "./styles";
 import CapaImg from "../../assets/capa.png"
 import { Title } from "../Title";
+import { Link } from "react-router-dom";
 
 export function Hero(){
     return(
@@ -15,12 +16,16 @@ export function Hero(){
                         />
                         <p>É importante que os psicólogos estejam familiarizados com essa abordagem para oferecer tratamentos personalizados e eficazes aos pacientes. Aprender sobre a terapia do esquema ajuda os profissionais a fornecer soluções mais efetivas para seus pacientes, promovendo uma vida mais saudável e feliz. </p>
                         <div className="button">
-                            <button className="primary-btn">
-                                TERAPEUTAS <i className=" fa fa-long-arrow-alt-right"></i>
-                            </button>
-                            <button >
-                                VER CURSOS <i className=" fa fa-long-arrow-alt-right"></i>
-                            </button>
+                            <Link to="/supervisao">
+                                <button className="primary-btn">
+                                    SUPERVISÃO <i className=" fa fa-long-arrow-alt-right"></i>
+                                </button>
+                            </Link>
+                            <Link to="/cursos">
+                                <button>
+                                    CURSOS <i className=" fa fa-long-arrow-alt-right"></i>
+                                </button>
+                            </Link>
                         </div>
                     </div>
                 </div>

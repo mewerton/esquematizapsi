@@ -72,12 +72,17 @@ margin-bottom: 4rem;
 
 .text{
     width: 300px;
-  word-wrap: break-word;
-  display: inline-block;
-  text-align:justify;
+    word-wrap: break-word;
+    display: inline-block;
+    text-align:justify;
 }
 @media screen and (max-width: 600px){
+ 
     margin: 1rem;
+    margin-bottom: 6rem;
+    margin-top: -6rem;
+
+
 }
 
 `

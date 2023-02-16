@@ -43,7 +43,7 @@ height: 100vh;
 @media screen and (max-width: 600px){
 
     .title-page{
-    margin: 8rem 1rem 0 1rem;
+    margin: 4rem 1rem 0 1rem;
     
 }
 

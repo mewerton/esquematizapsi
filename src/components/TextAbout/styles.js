@@ -44,7 +44,7 @@ padding: 0rem 2rem 2rem 2rem;
 
 @media screen and (max-width: 600px){
 
-margin: 1rem 2rem 2rem 2rem;
+margin: 1rem 2rem 6rem 2rem;
 padding: 0rem 0rem 0rem 0rem;
     p{
 

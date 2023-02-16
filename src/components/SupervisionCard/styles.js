@@ -111,10 +111,8 @@ export const Container = styled.div`
     
 }
 
-   
-
     .right{
-        margin-top: -3rem;
+        margin-top: -1rem;
     }
 
 }

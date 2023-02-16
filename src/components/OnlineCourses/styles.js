@@ -39,6 +39,7 @@ export const Container = styled.div`
         margin: 10px 0;
         line-height: 20px;
         text-align: start;
+        color: black;
     }
 
     .author p{
@@ -52,7 +53,7 @@ export const Container = styled.div`
         margin-bottom: 1rem;
     }
 
-    .box{
+    .online .box{
         height: 320px;
         
     }
@@ -100,6 +101,11 @@ export const Container = styled.div`
         line-height: 18px;
       
         }
+
+        .online .box{
+        height: 312px;
+        padding: 20px 10px;
+    }
 
 
     }
