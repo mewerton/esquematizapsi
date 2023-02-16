@@ -12,6 +12,9 @@ export const Container = styled.div`
     padding: 30px;
     text-align: center;
     border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     
 }
 
