@@ -79,44 +79,44 @@ export const homeAbout = [
     {
       id: 1,
       cover: "../images/courses/c1.png",
-      coursesName: "Introducing to Software Engineering",
+      coursesName: "Conceitos Fundamentais e Estratégias de Intervenção",
       courTeacher: [
         {
-          dcover: "./images/back.webp",
-          name: "by John Smith",
-          totalTime: "50 lectures (190 hrs)",
+          dcover: "../public/images/team/th.png",
+          name: "by Thassia Leão",
+          totalTime: "10 Módulos (4 hrs)",
         },
       ],
-      priceAll: "$100 All Course",
-      pricePer: "$15 per month",
+      priceAll: "R$ 469,00",
+      pricePer: "1 ano de acesso",
     },
     {
       id: 2,
-      cover: "../images/courses/c2.png",
-      coursesName: "Enhancing Adobe Photoshop CC 2020 Skills",
+      cover: "../images/courses/av.png",
+      coursesName: "Terapia do Esquema para Transtornos de Personalidade: Avaliação e Tratamento",
       courTeacher: [
         {
-          dcover: "./images/back.webp",
-          name: "by Ram Gurung",
-          totalTime: "30 lectures (125 hrs)",
+          dcover: "../public/images/team/lu.png",
+          name: "by Luanna Ávila",
+          totalTime: "12 Módulos (3 hrs)",
         },
       ],
-      priceAll: "$200 All Course",
-      pricePer: "$25 per month",
+      priceAll: "R$ 489,00",
+      pricePer: "1 ano de acesso",
     },
     {
       id: 3,
-      cover: "../images/courses/c3.png",
-      coursesName: "HTML, CSS, and Javascript for Web Developers",
+      cover: "../images/courses/es.png",
+      coursesName: "Estratégias para Mudar Padrões Disfuncionais",
       courTeacher: [
         {
-          dcover: "./images/back.webp",
-          name: "by Saroj Nepal",
-          totalTime: "50 lectures (50 hrs)",
+          dcover: "../public/images/team/je.png",
+          name: "by Jéssica O. Araújo",
+          totalTime: "12 Módulos (4 hrs)",
         },
       ],
-      priceAll: "$50 All Course",
-      pricePer: "$5 per month",
+      priceAll: "R$ 499,00",
+      pricePer: "1 ano de acesso",
     },
     // {
     //   id: 4,
@@ -297,19 +297,19 @@ export const homeAbout = [
     {
       id: 1,
       cover: "./images/team/t3.jpg",
-      name: "Jessica Molises",
+      name: "Jéssica de O. Araújo",
       work: "TERAPEUTA DO ESQUEMA",
     },
     {
       id: 2,
       cover: "./images/team/t2.jpg",
-      name: "Luanna Ávilla",
+      name: "Luanna C. Ávilla de Melo",
       work: "TERAPEUTA DO ESQUEMA",
     },
     {
       id: 3,
       cover: "./images/team/t1.jpg",
-      name: "Thássia Molises",
+      name: "Thássia M. Soares Leão",
       work: "TERAPEUTA DO ESQUEMA",
     },
     
@@ -508,7 +508,7 @@ export const homeAbout = [
   export const teamText = [
     {
       id: 1,
-      name: "Thássia Molises",
+      name: "Thássia M. Soares Leão",
       post: "Psicóloga • CRP 15/2950",
       desc: "Durante a graduação em Psicologia tive o privilégio de estagiar nas varas de família e senti o “chamado” pra trabalhar com crianças e famílias.",
       desc2:"Além da minha especialização e formações em TCC, e TCC na infância , fiz também cursos voltados para Parentalidade (Disciplina Positiva, Parentalidade consciente) e a formação em Terapia do Esquema, que tem sido minha maior fonte de estudos. Atualmente me dedico exclusivamente ao consultório, atendendo crianças, adolescentes e adultos e aqui no projeto Esquematizapsi.",
@@ -519,7 +519,7 @@ export const homeAbout = [
     },
     {
       id: 2,
-      name: "Luanna Ávilla",
+      name: "Luanna C. Ávilla de Melo",
       post: "Psicóloga • CRP 15/5512",
       desc: "Estou na psicologia há 4 anos, enquanto isso me formei em Terapia do Esquema e Terapia Cognitivo Comportamental, atualmente me debruçando na formação para supervisora.",
       desc2:"Desde o início me apaixonei pela prática clínica e venho atuando com o público jovem adulto. Passei dois anos sendo conciliadora de conflitos e psicóloga de uma Vara de Família, experiência que me fez pensar o quanto a vida precisa de relações mais saudáveis para o nosso equilíbrio emocional!",
@@ -530,7 +530,7 @@ export const homeAbout = [
     },
     {
       id: 3,
-      name: "Jessica Molises",
+      name: "Jéssica de Oliveira Araújo",
       post: "Psicóloga • CRP 15/3327",
       desc: `Sou psicóloga há dez anos e durante esse tempo fiz formação em Terapia Sexual, Terapia Cognitivo Comportamental, especialização em Neuropsicologia, cursos em orientação de Pais, Parentalidade, e Políticas públicas em saúde. Atuei na conciliação de conflitos familiares em Varas de Família, trabalhei por seis anos na saúde pública, e há cerca de oito anos me dedico ao consultório.`,
       desc3:"O que achou de me conhecer mais um pouquinho? Tem algo que você gostaria de saber?",

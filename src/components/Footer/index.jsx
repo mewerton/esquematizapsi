@@ -39,13 +39,21 @@ export function Footer(){
                     <div className='box last'>
                         <h3>Alguma dúvida?</h3>
                         <ul>
-                        <li>
+                        {/* <li>
                             <i className='fa fa-phone-alt'></i>
                             82 88888 8888
+                        </li> */}
+                        <li>
+                            <i className='fa fa-paper-plane'></i>
+                            jessica@esquematizapsi.com.br
                         </li>
                         <li>
                             <i className='fa fa-paper-plane'></i>
-                            contato@esquematizapsi.com
+                            luanna@esquematizapsi.com.br
+                        </li>
+                        <li>
+                            <i className='fa fa-paper-plane'></i>
+                            thassia@esquematizapsi.com.br
                         </li>
                         </ul>
                     </div>
