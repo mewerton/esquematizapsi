@@ -78,11 +78,11 @@ export const homeAbout = [
   export const coursesCard = [
     {
       id: 1,
-      cover: "../images/courses/c1.png",
+      cover: "../images/courses/consulta.png",
       coursesName: "Conceitos Fundamentais e Estratégias de Intervenção",
       courTeacher: [
         {
-          dcover: "../public/images/team/th.png",
+          dcover: "https://esquematizapsi.com.br/images/testo/th.png",
           name: "by Thassia Leão",
           totalTime: "10 Módulos (4 hrs)",
         },
@@ -96,7 +96,7 @@ export const homeAbout = [
       coursesName: "Terapia do Esquema para Transtornos de Personalidade: Avaliação e Tratamento",
       courTeacher: [
         {
-          dcover: "../public/images/team/lu.png",
+          dcover: "https://esquematizapsi.com.br/images/testo/lu.png",
           name: "by Luanna Ávila",
           totalTime: "12 Módulos (3 hrs)",
         },
@@ -110,7 +110,7 @@ export const homeAbout = [
       coursesName: "Estratégias para Mudar Padrões Disfuncionais",
       courTeacher: [
         {
-          dcover: "../public/images/team/je.png",
+          dcover: "https://esquematizapsi.com.br/images/testo/je.png",
           name: "by Jéssica O. Araújo",
           totalTime: "12 Módulos (4 hrs)",
         },
