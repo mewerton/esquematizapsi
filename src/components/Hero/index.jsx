@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import CapaImg from "../../assets/capa.png"
+import CapaImg from "../../assets/capa.jpg"
 import { Title } from "../Title";
 import { Link } from "react-router-dom";
 

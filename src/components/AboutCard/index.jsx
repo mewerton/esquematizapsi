@@ -3,7 +3,7 @@ import { AwRapper } from "../AWrapper";
 import { Title } from "../Title";
 import { Container } from "./styles";
 
-import ImageB from "../../assets/juntas2.png"
+import ImageB from "../../assets/juntas2.jpg"
 
 export function AboutCard(){
     return(

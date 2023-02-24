@@ -82,7 +82,7 @@ export const homeAbout = [
       coursesName: "Conceitos Fundamentais e Estratégias de Intervenção",
       courTeacher: [
         {
-          dcover: "https://esquematizapsi.com.br/images/testo/th.png",
+          dcover: "./images/testo/th.jpg",
           name: "by Thassia Leão",
           totalTime: "10 Módulos (4 hrs)",
         },
@@ -96,7 +96,7 @@ export const homeAbout = [
       coursesName: "Terapia do Esquema para Transtornos de Personalidade: Avaliação e Tratamento",
       courTeacher: [
         {
-          dcover: "https://esquematizapsi.com.br/images/testo/lu.png",
+          dcover: "./images/testo/lu.jpg",
           name: "by Luanna Ávila",
           totalTime: "12 Módulos (3 hrs)",
         },
@@ -110,7 +110,7 @@ export const homeAbout = [
       coursesName: "Estratégias para Mudar Padrões Disfuncionais",
       courTeacher: [
         {
-          dcover: "https://esquematizapsi.com.br/images/testo/je.png",
+          dcover: "./images/testo/je.jpg",
           name: "by Jéssica O. Araújo",
           totalTime: "12 Módulos (4 hrs)",
         },
@@ -515,7 +515,7 @@ export const homeAbout = [
       desc3:"Espero que tenham gostado de conhecer um pouco mais sobre cada uma de nós.",
       desc4:"Com carinho, Thássia.",
      
-      cover: "./images/testo/th.png",
+      cover: "./images/testo/th.jpg",
     },
     {
       id: 2,
@@ -526,7 +526,7 @@ export const homeAbout = [
       desc3:"Espero que tenha gostado, e ficaria feliz de saber o que vc gostaria de ver por aqui!",
       desc4:"Bjo, Lu",
    
-      cover: "./images/testo/lu.png",
+      cover: "./images/testo/lu.jpg",
     },
     {
       id: 3,
@@ -536,7 +536,7 @@ export const homeAbout = [
       desc3:"O que achou de me conhecer mais um pouquinho? Tem algo que você gostaria de saber?",
       desc2:"Em 2018 fiz a formação e me apaixonei pela terapia do Esquema. Atualmente estou me especializando em sexualidade humana. Hoje trabalho exclusivamente com psicoterapia com adolescentes e adultos, e com o projeto Esquematiza Psi.",
       desc4:"Com carinho, Jessica",
-      cover: "./images/testo/je.png",
+      cover: "./images/testo/je.jpg",
     },
     
   ]
