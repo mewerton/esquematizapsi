@@ -9,8 +9,8 @@ export function OnlineCourses(){
             <div className="container">
                 <Title subtitle={"MATERIAIS"} title={"LIVROS RECOMENDADOS"}/>
             <div className="content grid3">
-                {online.map((val) => (
-                        <a href={val.link} target="_blank">
+                {online.map((val, index) => (
+                        <a href={val.link} target="_blank" key={index}>
                             <div className="box" key={val.courseName}>
                                 <div className="img">
                                     <img src={val.cover} alt="" />
