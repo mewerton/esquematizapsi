@@ -15,7 +15,7 @@
 
 ## 💻 Sobre:
 
-A aplicação em desenvolvida é um site para um grupo de Terapeuras de Esquematiza Psicologia, apresentando seus serviços e cursos online para estudantes e profissionais da área de psicologia que buscam conhecimentos sobre a Terapia do Esquema.
+A aplicação em desenvolvida é um site para um grupo de Terapeutas do Esquematiza Psicologia, apresentando seus serviços e cursos online para estudantes e profissionais da área de psicologia que buscam conhecimentos sobre a Terapia do Esquema.
 
 Neste projeto estão sendo abordados os seguintes temas:
 
