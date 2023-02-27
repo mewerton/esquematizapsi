@@ -30,6 +30,7 @@ margin-bottom: 4rem;
     padding: 20px;
     background-color:rgba(255,255,255, 0.3);
     color: #5f1a2c;
+    text-align: justify;
 }
 
 .faq .accordion{

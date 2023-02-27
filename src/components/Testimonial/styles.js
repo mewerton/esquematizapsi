@@ -60,6 +60,7 @@ display: flex;
     color: grey;
     transition: 0.5s;
     margin-bottom: 2rem;
+    text-align: justify;
 }
 
 .testimonial .items:hover{

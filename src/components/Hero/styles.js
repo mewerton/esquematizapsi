@@ -47,6 +47,7 @@ export const Container = styled.div`
     background-color: ${({theme}) => theme.COLORS.BACKGROUND_200};
     border-radius: 5px;
     padding: 5px 5px;
+    text-align: justify;
 }
 
 @media screen and (max-width: 920px){

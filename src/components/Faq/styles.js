@@ -28,6 +28,7 @@ export const Container = styled.div`
     padding: 20px;
     background-color:rgba(255,255,255, 0.3);
     color: #5f1a2c;
+    text-align: justify;
 }
 
 .faq .accordion{
