@@ -9,9 +9,8 @@ export function TeamCard(){
           <div className='img'>
             <img src={val.cover} alt='' />
             <div className='overlay'>
-              <i className='fab fa-facebook-f icon'></i>
-              <i className='fab fa-whatsapp icon'></i>
-              <i className='fab fa-instagram icon'></i>
+              <a href={val.whats} target="_blank"><i className="fab fa-whatsapp icon"></i></a>
+              <a href={val.insta} target="_blank"><i className="fab fa-instagram icon"></i></a> 
             </div>
           </div>
           <div className='details'>

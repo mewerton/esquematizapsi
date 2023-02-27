@@ -25,22 +25,22 @@ export function Contato(){
                             <div className="contact">
                                 <p> Jéssica</p>
                                 <div className="social">
-                                <i className="fab fa-whatsapp icon"></i>
-                                <i className="fab fa-instagram icon"></i> 
+                                    <a href="https://api.whatsapp.com/send?phone=5582981037210" target="_blank"><i className="fab fa-whatsapp icon"></i></a>
+                                    <a href="https://www.instagram.com/jessica_psi/" target="_blank"><i className="fab fa-instagram icon"></i></a> 
                                 </div>
                             </div>
                             <div className="contact">
                                 <p> Luanna</p>
                                 <div className="social">
-                                <i className="fab fa-whatsapp icon"></i>
-                                <i className="fab fa-instagram icon"></i> 
+                                    <a href="https://api.whatsapp.com/send?phone=558299102-0454" target="_blank"><i className="fab fa-whatsapp icon"></i></a>
+                                    <a href="https://www.instagram.com/luannaavilapsi/" target="_blank"><i className="fab fa-instagram icon"></i></a> 
                                 </div>
                             </div>
                             <div className="contact">
                                 <p> Thássia</p>
                                 <div className="social">
-                                <i className="fab fa-whatsapp icon"></i>
-                                <i className="fab fa-instagram icon"></i> 
+                                    <a href="https://api.whatsapp.com/send/?phone=5582996804023&text&type=phone_number&app_absent=0" target="_blank"><i className="fab fa-whatsapp icon"></i></a>
+                                    <a href="https://www.instagram.com/thassialeaopsi/" target="_blank"><i className="fab fa-instagram icon"></i></a>  
                                 </div>
                             </div> 
                         </div>

@@ -276,18 +276,24 @@ export const homeAbout = [
       cover: "./images/team/t3.jpg",
       name: "Jéssica de O. Araújo",
       work: "TERAPEUTA DO ESQUEMA",
+      insta: "https://www.instagram.com/jessica_psi/",
+      whats: "https://api.whatsapp.com/send?phone=5582981037210",
     },
     {
       id: 2,
       cover: "./images/team/t2.jpg",
       name: "Luanna C. Ávilla de Melo",
       work: "TERAPEUTA DO ESQUEMA",
+      insta: "https://www.instagram.com/luannaavilapsi/",
+      whats: "https://api.whatsapp.com/send?phone=558299102-0454",
     },
     {
       id: 3,
       cover: "./images/team/t1.jpg",
       name: "Thássia M. Soares Leão",
       work: "TERAPEUTA DO ESQUEMA",
+      insta: "https://www.instagram.com/thassialeaopsi/",
+      whats: "https://api.whatsapp.com/send/?phone=5582996804023&text&type=phone_number&app_absent=0",
     },
     
     
