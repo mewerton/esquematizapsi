@@ -1,6 +1,20 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
+.new-slide{
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+    flex-direction: column;
+    height: 47vh;
+    margin-top: 0rem;
+        
+}
+
+.slide-map{
+display: flex;
+}
+
 .testimonial .items{
     padding: 30px;
     transition: 0.5s;
@@ -11,8 +25,8 @@ export const Container = styled.div`
 }
 
 .testimonial img{
-    width: 100px;
-    height: 100px;
+    width: 125px;
+    height: 125px;
     border-radius: 50%;
 }
 
@@ -45,6 +59,7 @@ export const Container = styled.div`
     margin-top: 20px;
     color: grey;
     transition: 0.5s;
+    margin-bottom: 2rem;
 }
 
 .testimonial .items:hover{
@@ -63,6 +78,11 @@ export const Container = styled.div`
 }
 @media screen and (max-width: 600px){
     margin: 1rem;
+
+    .new-slide{
+        height: 40vh;
+    }
+
 }
 
 `

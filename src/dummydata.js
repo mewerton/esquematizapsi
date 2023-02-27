@@ -268,30 +268,7 @@ export const homeAbout = [
       course: "Comprar",
       link: "https://www.amazon.com.br/M%C3%A9todos-Criativos-Terapia-Esquema-Inova%C3%A7%C3%A3o/dp/6558821036/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3NTXEGDDFY7KZ&keywords=Terapia+do+Esquema&qid=1676532073&s=books&sprefix=terapia+do+esquema%2Cstripbooks%2C207&sr=1-6&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9",
     },
-    // {
-    //   cover: "./images/courses/online/o9.png",
-    //   hoverCover: "./images/courses/online/o9.1.png",
-    //   courseName: "Graphic Design",
-    //   course: "80 Courses",
-    // },
-    // {
-    //   cover: "./images/courses/online/o10.png",
-    //   hoverCover: "./images/courses/online/o10.1.png",
-    //   courseName: "Music",
-    //   course: "120 Courses",
-    // },
-    // {
-    //   cover: "./images/courses/online/o11.png",
-    //   hoverCover: "./images/courses/online/o11.1.png",
-    //   courseName: "Business Administration",
-    //   course: "17 Courses",
-    // },
-    // {
-    //   cover: "./images/courses/online/o12.png",
-    //   hoverCover: "./images/courses/online/o12.1.png",
-    //   courseName: "Web Management",
-    //   course: "17 Courses",
-    // },
+    
   ]
   export const team = [
     {
