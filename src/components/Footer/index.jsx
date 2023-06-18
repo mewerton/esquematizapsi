@@ -30,7 +30,7 @@ export function Footer(){
                             <ul>
                                 <li><Link to="/sobre">Sobre</Link></li>
                                 <li><Link to="/terapeuras">Terapeutas</Link></li>
-                                <li><Link to="/contato">Contato</Link></li>
+                                <li><Link to="/psicoterapia">Psicoterapia</Link></li>
                             </ul>
                         </div>
                     </div>

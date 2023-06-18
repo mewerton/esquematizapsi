@@ -5,7 +5,7 @@ import { Container } from "./styles";
 
 import { motion } from "framer-motion"
 
-export function Contato(){
+export function Psicoterapia(){
     return(
         <Container>
         <motion.div

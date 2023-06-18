@@ -5,7 +5,7 @@ import { Home } from "../Home"
 import { Sobre } from "../Sobre"
 import { Cursos } from "../Cursos"
 import { Terapeutas } from "../Terapeutas"
-import { Contato } from "../Contato"
+import { Psicoterapia } from "../Psicoterapia"
 import { Supervisao } from "../Supervisao"
 
 import { AnimatePresence } from "framer-motion"
@@ -26,7 +26,7 @@ export function Details(){
             <Route path="/supervisao" element={<Supervisao/>}/>
             <Route path="/sobre" element={<Sobre/>}/>
             <Route path="/terapeuras" element={<Terapeutas/>}/>
-            <Route path="/contato" element={<Contato/>}/>
+            <Route path="/psicoterapia" element={<Psicoterapia/>}/>
             <Route path="*" element={<Navigate to="/"/>}/>
           </Routes>
         </AnimatePresence>

@@ -18,7 +18,7 @@ export function HeaderB(){
                         <li><Link to="/supervisao">Supervisão</Link></li>
                         <li><Link to="/sobre">Sobre</Link></li>
                         <li><Link to="/terapeuras">Terapeutas</Link></li>
-                        <li><Link to="/contato">Contato</Link></li>
+                        <li><Link to="/psicoterapia">Psicoterapia</Link></li>
                     </ul>
                     <div className="start">
                         <div className="button">TERAPIA DO ESQUEMA</div>
