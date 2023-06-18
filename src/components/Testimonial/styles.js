@@ -82,7 +82,7 @@ display: flex;
     margin: 1rem;
 
     .new-slide{
-        height: 60vh;
+        height: 70vh;
     }
 
 }
