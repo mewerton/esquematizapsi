@@ -71,8 +71,12 @@ form .flexSB input:nth-child(1) {
 .contacts span {
   color: #1eb2a6;
   font-weight: 600;
-  font-size: 15px;
+  font-size: 18px;
   word-spacing: 5px;
+}
+
+.contacts p{
+  text-align: justify;
 }
 
 .primary-btn:hover{
