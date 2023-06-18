@@ -84,11 +84,11 @@ export const homeAbout = [
         {
           dcover: "./images/testo/juntas2.jpg",
           name: "by Esquematiza",
-          totalTime: "Maceió - 15:00 PM",
+          totalTime: "Maceió - Data a definir",
         },
       ],
-      priceAll: "R$ 90,00",
-      pricePer: "  ",
+      priceAll: "R$ -- ",
+      pricePer: "Valor a definir",
     },
     {
       id: 2,
@@ -98,11 +98,11 @@ export const homeAbout = [
         {
           dcover: "./images/testo/juntas2.jpg",
           name: "by Esquematiza",
-          totalTime: "12 Módulos (3 hrs)",
+          totalTime: "6 Módulos (4 hrs)",
         },
       ],
-      priceAll: "R$ 489,00",
-      pricePer: "1 ano de acesso",
+      priceAll: "R$ --",
+      pricePer: "Valor a definir",
     },
     {
       id: 3,
@@ -115,8 +115,8 @@ export const homeAbout = [
           totalTime: "12 Módulos (4 hrs)",
         },
       ],
-      priceAll: "R$ 499,00",
-      pricePer: "1 ano de acesso",
+      priceAll: "R$ --",
+      pricePer: "Valor a definir",
     },
     // {
     //   id: 4,
