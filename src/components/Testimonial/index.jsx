@@ -7,11 +7,11 @@ import { Pagination } from "swiper"
 import 'swiper/css'
 import 'swiper/css/pagination'
 
-import t1 from "../../../public/images/testo/t1.jpg"
-import t2 from "../../../public/images/testo/t2.jpg"
-import t3 from "../../../public/images/testo/t3.jpg"
-import t4 from "../../../public/images/testo/t4.jpg"
-import t5 from "../../../public/images/testo/t5.jpg"
+import melinda from "../../../public/images/testo/melinda.jpg"
+import jana from "../../../public/images/testo/jana.jpg"
+import leticia from "../../../public/images/testo/leticia.jpg"
+import sany from "../../../public/images/testo/sany.jpg"
+
 
 export function Testimonial(){
     return(
@@ -59,7 +59,7 @@ export function Testimonial(){
                             <div className="new-slide">
                                 <div className="box flex">
                                     <div className="img">
-                                        <img src={t1} alt="" />
+                                        <img src={melinda} alt="" />
                                         <i className="fa fa-quote-left icon"></i>
                                     </div>
                                     <div className="name">
@@ -76,7 +76,7 @@ export function Testimonial(){
                             <div className="new-slide">
                                 <div className="box flex">
                                     <div className="img">
-                                        <img src={t4} alt="" />
+                                        <img src={jana} alt="" />
                                        <i className="fa fa-quote-left icon"></i>
                                     </div>
                                     <div className="name">
@@ -93,7 +93,7 @@ export function Testimonial(){
                             <div className="new-slide">
                                 <div className="box flex">
                                     <div className="img">
-                                        <img src={t2} alt="" />
+                                        <img src={leticia} alt="" />
                                         <i className="fa fa-quote-left icon"></i>
                                     </div>
                                     <div className="name">
@@ -110,12 +110,12 @@ export function Testimonial(){
                             <div className="new-slide">
                                 <div className="box flex">
                                     <div className="img">
-                                        <img src={t3} alt="" />
+                                        <img src={sany} alt="" />
                                         <i className="fa fa-quote-left icon"></i>
                                     </div>
                                     <div className="name">
                                         <h2>Sanielly de Melo Alves</h2>
-                                        <span>Psicóloga</span>
+                                        <span>Estudante de psicologia</span>
                                     </div>
                                 </div>
                                 <p>O afeto das meninas Thássia, Jéssica e Luana me cativaram ainda mais e incentivaram a me apaixonar ainda mais pela TE. Elas e o método de ambas são a prova viva do que é a terapia do esquema - uma abordagem que enxerga e dá espaço ao vínculo, ao afeto e a ternura. Os conteúdos são bem divididos e repassados de maneira muito dinâmica, lembro que tinha quiizz, indicações, referências à filmes, séries e livros…</p>

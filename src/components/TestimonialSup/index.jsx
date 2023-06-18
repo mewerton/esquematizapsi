@@ -7,11 +7,9 @@ import { Pagination } from "swiper"
 import 'swiper/css'
 import 'swiper/css/pagination'
 
-import t1 from "../../../public/images/testo/t1.jpg"
-import t2 from "../../../public/images/testo/t2.jpg"
-import t3 from "../../../public/images/testo/t3.jpg"
-import t4 from "../../../public/images/testo/t4.jpg"
-import t5 from "../../../public/images/testo/t5.jpg"
+import lucila from "../../../public/images/testo/lucila.jpg"
+import magda from "../../../public/images/testo/magda.jpg"
+
 
 export function TestimonialSup(){
     return(
@@ -63,7 +61,7 @@ export function TestimonialSup(){
                             <div className="new-slide">
                                 <div className="box flex">
                                     <div className="img">
-                                        <img src={t1} alt="" />
+                                        <img src={lucila} alt="" />
                                         <i className="fa fa-quote-left icon"></i>
                                     </div>
                                     <div className="name">
@@ -80,12 +78,12 @@ export function TestimonialSup(){
                             <div className="new-slide">
                                 <div className="box flex">
                                     <div className="img">
-                                        <img src={t4} alt="" />
+                                        <img src={magda} alt="" />
                                        <i className="fa fa-quote-left icon"></i>
                                     </div>
                                     <div className="name">
-                                        <h2>Magda</h2>
-                                        <span>Psicóloga e Neuropsicóloga clínica</span>
+                                        <h2>Magda Freitas</h2>
+                                        <span>Psicóloga</span>
                                     </div>
                                 </div>
                                 <p>Minha experiência com a supervisão das colegas queridas do Esquematize tem sido muito bacana e efetiva na prática clínica. Na supervisão é natural a dedicação, assertividade, criatividade, um toque de carinho e validação no trabalho que tenho realizado na clínica.Já já estarei de volta pra um próximo encontro.</p>

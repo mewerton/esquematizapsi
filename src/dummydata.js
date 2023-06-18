@@ -328,16 +328,8 @@ export const homeAbout = [
   ]
   export const faq = [
     {
-      title: "Qual é a base teórica da Terapia do Esquema?",
-      desc: "Nossos cursos se baseiam na Terapia do Esquema, uma abordagem terapêutica integrativa que combina teorias cognitivas, comportamentais e psicodinâmicas.",
-    },
-    {
       title: "Como os cursos são ministrados?",
       desc: "Nossos cursos são ministrados online, em um ambiente virtual interativo, com vídeos, leituras e atividades práticas. Aprendizado online é uma excelente opção para quem tem uma agenda apertada ou não pode comparecer a aulas presenciais.",
-    },
-    {
-      title: "Qual é o nível de dificuldade dos cursos?",
-      desc: "Os nossos cursos são oferecidos em diferentes níveis de dificuldade, do básico ao avançado, para que você possa escolher o curso que melhor atenda às suas necessidades e nível de conhecimento.",
     },
     {
       title: "Os cursos incluem aulas práticas?",
