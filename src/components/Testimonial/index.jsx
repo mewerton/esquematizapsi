@@ -63,11 +63,28 @@ export function Testimonial(){
                                         <i className="fa fa-quote-left icon"></i>
                                     </div>
                                     <div className="name">
-                                        <h2>Juliana Silva</h2>
+                                        <h2>Melinda Torres</h2>
                                         <span>Psicóloga</span>
                                     </div>
                                 </div>
-                                <p>O grupo de estudos do Esquematiza Psicologia me ajudou a ampliar minha expertise como psicóloga. Agora, me sinto mais segura e capaz de lidar com problemas emocionais profundos e duradouros dos meus pacientes.</p>
+                                <p>Minha experiência com as meninas da esquematiza começou através do Cine TE, uma proposta super legal e que cheguei a participar em algumas edições. Então já conhecia a dedicação, organização e competência delas. No grupo de estudos não foi diferente e realmente superou às minhas expectativas! Foram momentos de aprendizado, trocas, conhecimento, sempre com muita leveza e conexão! E com certeza, indico para quem já tem alguma Formação em TE e, também, para quem quer conhecer a abordagem! Esse trio de psicólogas além de super competente, coloca amor em tudo que faz!</p>
+                            </div>
+                        </div>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <div className="items shadow">
+                            <div className="new-slide">
+                                <div className="box flex">
+                                    <div className="img">
+                                        <img src={t4} alt="" />
+                                       <i className="fa fa-quote-left icon"></i>
+                                    </div>
+                                    <div className="name">
+                                        <h2>Janaína Gaia</h2>
+                                        <span>Psicóloga e Neuropsicóloga clínica</span>
+                                    </div>
+                                </div>
+                                <p>Foi produtivo compreender os 18 esquemas propostos por Jeffrey Young e de que modo as técnicas aplicadas possibilitam evoluções com nossos pacientes, mas nada disso seria possível sem a didática que o Esquematiza Psi utiliza: um embasanento teórico consistente com material disponibilizado; discussão de estudos de caso, recursos aplicados nos encontros e o comprometimento desse trio maravilhoso de psicólogas que possibilita novos aprendizados com acolhimento e leveza. Sem dúvida é um ótimo investimento, nos possibilita novas perspectivas profissionais e impulsiona a nos mantermos atualizados.</p>
                             </div>
                         </div>
                     </SwiperSlide>
@@ -80,11 +97,11 @@ export function Testimonial(){
                                         <i className="fa fa-quote-left icon"></i>
                                     </div>
                                     <div className="name">
-                                        <h2>André Oliveira</h2>
-                                        <span>Psicólogo</span>
+                                        <h2>Letícia Meller</h2>
+                                        <span>Psicóloga</span>
                                     </div>
                                 </div>
-                                <p>Os encontros online do Esquematiza Psicologia foram um divisor de águas na minha carreira. Aprendi muito sobre a terapia do esquema e pude aplicar esse conhecimento com sucesso em diversos casos clínicos.</p>
+                                <p>O Grupo de Estudos foi um abraço quentinho nesse mergulho pela TE, a didática das meninas é cheia de exemplificações e o espaço de fala que a experiência proporciona é incrível para a compreensão dos conceitos e o sentido que a teoria vai tomando para cada um nós é puro acolhimento.</p>
                             </div>
                         </div>
                     </SwiperSlide>
@@ -97,48 +114,15 @@ export function Testimonial(){
                                         <i className="fa fa-quote-left icon"></i>
                                     </div>
                                     <div className="name">
-                                        <h2>Mariana Santos</h2>
+                                        <h2>Sanielly de Melo Alves</h2>
                                         <span>Psicóloga</span>
                                     </div>
                                 </div>
-                                <p>Recomendo muito o grupo de estudos do Esquematiza Psicologia. As terapeutas são excelentes profissionais e ensinam de forma clara e objetiva sobre a terapia do esquema. Vale muito a pena!</p>
+                                <p>O afeto das meninas Thássia, Jéssica e Luana me cativaram ainda mais e incentivaram a me apaixonar ainda mais pela TE. Elas e o método de ambas são a prova viva do que é a terapia do esquema - uma abordagem que enxerga e dá espaço ao vínculo, ao afeto e a ternura. Os conteúdos são bem divididos e repassados de maneira muito dinâmica, lembro que tinha quiizz, indicações, referências à filmes, séries e livros…</p>
                             </div>
                         </div>
                     </SwiperSlide>
-                    <SwiperSlide>
-                        <div className="items shadow">
-                            <div className="new-slide">
-                                <div className="box flex">
-                                    <div className="img">
-                                        <img src={t4} alt="" />
-                                        <i className="fa fa-quote-left icon"></i>
-                                    </div>
-                                    <div className="name">
-                                        <h2>Pedro Silva</h2>
-                                        <span>Psicólogo</span>
-                                    </div>
-                                </div>
-                                <p>Estou muito satisfeito com o grupo de estudos do Esquematiza Psicologia. Aprendi bastante sobre a terapia do esquema e pude aplicar esse conhecimento com sucesso em casos clínicos difíceis. Recomendo!</p>
-                            </div>
-                        </div>
-                    </SwiperSlide>
-                    <SwiperSlide>
-                        <div className="items shadow">
-                            <div className="new-slide">
-                                <div className="box flex">
-                                    <div className="img">
-                                        <img src={t5} alt="" />
-                                        <i className="fa fa-quote-left icon"></i>
-                                    </div>
-                                    <div className="name">
-                                        <h2>Ana Paula Rodrigues</h2>
-                                        <span>Psicóloga</span>
-                                    </div>
-                                </div>
-                                <p>O Esquematiza Psicologia é um projeto incrível. As terapeutas são extremamente competentes e ensinam de forma didática sobre a terapia do esquema. Com certeza, recomendo para todos os psicólogos que querem ampliar sua expertise.</p>
-                            </div>
-                        </div>
-                    </SwiperSlide>
+                   
                   
                  
                 </Swiper>

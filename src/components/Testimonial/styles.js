@@ -6,7 +6,7 @@ export const Container = styled.div`
     align-items: center;
     align-content: space-between;
     flex-direction: column;
-    height: 47vh;
+    height: 60vh;
     margin-top: 0rem;
         
 }
@@ -81,7 +81,7 @@ display: flex;
     margin: 1rem;
 
     .new-slide{
-        height: 40vh;
+        height: 60vh;
     }
 
 }

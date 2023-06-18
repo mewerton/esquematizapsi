@@ -78,6 +78,7 @@ button:hover{
     background-color: ${({theme}) => theme.COLORS.BACKGROUND_200};
     color:  ${({theme}) => theme.COLORS.BLUE_300};
     transition: 0.5s ease-in-out;
+ 
 }
 
 .icon:hover{
