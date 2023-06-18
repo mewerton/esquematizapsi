@@ -66,6 +66,10 @@ export const Container = styled.div`
         gap: 1rem;
     }
 
+.aboutHome .text{
+    text-align: justify;
+}
+
 @media screen and (max-width: 768px){
     
     .aboutHome .left{

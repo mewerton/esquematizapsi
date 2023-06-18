@@ -21,6 +21,12 @@ export function SupervisionCard(){
                                     <div className="text">
                                         <h2>{val.title}</h2>
                                         <p>{val.desc}</p>
+                                        <br />
+                                        <p>{val.desc2}</p>
+                                        <br />
+                                        <p>{val.desc3}</p>
+                                        <br />
+                                        <p>{val.desc4}</p>
                                     </div>
 
                                 </div>

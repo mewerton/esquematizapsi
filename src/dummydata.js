@@ -23,27 +23,32 @@ export const homeAbout = [
     {
       id: 1,
       cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
-      title: "Melhor compreensão dos casos",
-      desc: "Ajuda os profissionais a obter uma compreensão mais profunda das necessidades dos clientes e dos processos terapêuticos, permitindo que eles prestem um atendimento mais efetivo.",
-    },
-    {
-      id: 2,
-      cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-      title: "Desenvolvimento de habilidades clínicas",
-      desc: "A supervisão oferece um ambiente de suporte para os psicólogos aprimorarem suas habilidades clínicas, aumentarem sua autoconfiança e se tornarem mais eficazes como terapeutas.",
-    },
-    {
-      id: 3,
-      cover: "https://img.icons8.com/ios/80/000000/athlete.png",
-      title: "Identificação de padrões e temas",
-      desc: "Discutir casos com supervisores permite que os psicólogos identifiquem padrões e temas que podem ser úteis na compreensão dos processos terapêuticos e no planejamento do tratamento.",
-    },
-    {
-      id: 3,
-      cover: "https://img.icons8.com/ios/80/000000/athlete.png",
-      title: "Promoção da resolução de problemas",
-      desc: "A supervisão de casos é um ambiente encorajador para discutir desafios clínicos e buscar soluções mais eficazes, promovendo um atendimento de maior qualidade para os clientes.",
-    },
+      
+      desc: "Adoramos o fato de podermos estudar juntas e buscarmos alternativas funcionais para o andamento dos teus atendimentos. Por isso nasceu o nosso serviço de Supervisionar! ",
+      desc2: "Como acontece? A priori te encaminhamos um formulário que irá nortear o estudo do caso. Você poderá organizar o conteúdo com as informações que você tiver disponível, de acordo com a sua prática e necessidade. Pedimos para que nos envie o formulário preenchido até dois dias antes do encontro. Isso nos dá tempo suficiente para ter organização que você precisa de nós.",
+      desc3: "Quanto mais dados a respeito, mais material teremos para uma boa compreensão e orientação do caso. Porém, tudo vai depender do momento em que se encontra o processo terapêutico. Então fica tranquilo(a), construiremos o entendimento juntos. Um dos nossos objetivos é trabalhar suas habilidades e competências e fortalecer seu desempenho enquanto terapeuta!",
+      desc4: "Ah, caso você não tenha todas as informações, não se preocupe, tentaremos juntas encontrar as lacunas durante os nossos encontros. Marque sua experiência de supervisão conosco e será um prazer lhe orientar!",
+
+
+    }
+    // {
+    //   id: 2,
+    //   cover: "https://img.icons8.com/ios/80/000000/diploma.png",
+    //   title: "Desenvolvimento de habilidades clínicas",
+    //   desc: "A supervisão oferece um ambiente de suporte para os psicólogos aprimorarem suas habilidades clínicas, aumentarem sua autoconfiança e se tornarem mais eficazes como terapeutas.",
+    // },
+    // {
+    //   id: 3,
+    //   cover: "https://img.icons8.com/ios/80/000000/athlete.png",
+    //   title: "Identificação de padrões e temas",
+    //   desc: "Discutir casos com supervisores permite que os psicólogos identifiquem padrões e temas que podem ser úteis na compreensão dos processos terapêuticos e no planejamento do tratamento.",
+    // },
+    // {
+    //   id: 3,
+    //   cover: "https://img.icons8.com/ios/80/000000/athlete.png",
+    //   title: "Promoção da resolução de problemas",
+    //   desc: "A supervisão de casos é um ambiente encorajador para discutir desafios clínicos e buscar soluções mais eficazes, promovendo um atendimento de maior qualidade para os clientes.",
+    // },
     
   ]
 
