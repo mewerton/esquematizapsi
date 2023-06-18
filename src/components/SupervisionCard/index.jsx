@@ -12,7 +12,7 @@ export function SupervisionCard(){
                 <div className="container flexSB">
                     
                     <div className="right row">
-                        <Title subtitle={"PORQUE UMA SUPERVISÃO? CONFIRA ALGUNS"} title={"BENEFÍCIOS DA SUPERVISÃO"}/>
+                        <Title subtitle={"CONHEÇA MAIS"} title={"SOBRE NOSSA SUPERVISÃO"}/>
                         <div className="items">
                             {supervisionAbout.map((val, index) => (
 
