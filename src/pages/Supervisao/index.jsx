@@ -7,6 +7,7 @@ import { SupervisionCard } from "../../components/SupervisionCard";
 import { FaqSupervision } from "../../components/FaqSupervision";
 
 import { motion } from "framer-motion"
+import { TestimonialSup } from "../../components/TestimonialSup";
 
 export function Supervisao(){
     return(
@@ -34,6 +35,7 @@ export function Supervisao(){
             </div>
             <SupervisionCard/>
             <FaqSupervision/>
+            <TestimonialSup/>
             </motion.div>
             <Footer/>
         </Container>
