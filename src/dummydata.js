@@ -79,25 +79,25 @@ export const homeAbout = [
     {
       id: 1,
       cover: "../images/courses/consulta.png",
-      coursesName: "Conceitos Fundamentais e Estratégias de Intervenção",
+      coursesName: "Encontro presencial - Café & Esquemas",
       courTeacher: [
         {
-          dcover: "./images/testo/th.jpg",
-          name: "by Thassia Leão",
-          totalTime: "10 Módulos (4 hrs)",
+          dcover: "./images/testo/juntas2.jpg",
+          name: "by Esquematiza",
+          totalTime: "Maceió - 15:00 PM",
         },
       ],
-      priceAll: "R$ 469,00",
-      pricePer: "1 ano de acesso",
+      priceAll: "R$ 90,00",
+      pricePer: "  ",
     },
     {
       id: 2,
       cover: "../images/courses/av.png",
-      coursesName: "Terapia do Esquema para Transtornos de Personalidade: Avaliação e Tratamento",
+      coursesName: "Grupo de Estudos -  Estudando modos esquemáticos",
       courTeacher: [
         {
-          dcover: "./images/testo/lu.jpg",
-          name: "by Luanna Ávila",
+          dcover: "./images/testo/juntas2.jpg",
+          name: "by Esquematiza",
           totalTime: "12 Módulos (3 hrs)",
         },
       ],
@@ -107,11 +107,11 @@ export const homeAbout = [
     {
       id: 3,
       cover: "../images/courses/es.png",
-      coursesName: "Estratégias para Mudar Padrões Disfuncionais",
+      coursesName: "Grupo de Estudos -  Compreendendo os 18 esquemas",
       courTeacher: [
         {
-          dcover: "./images/testo/je.jpg",
-          name: "by Jéssica O. Araújo",
+          dcover: "./images/testo/juntas2.jpg",
+          name: "by Esquematiza",
           totalTime: "12 Módulos (4 hrs)",
         },
       ],

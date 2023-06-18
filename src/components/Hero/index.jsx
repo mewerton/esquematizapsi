@@ -12,9 +12,9 @@ export function Hero(){
                 <div className="container">
                     <div className="row">
                         <Title 
-                            subtitle={"Terapia do Esquema: uma abordagem eficaz para tratamento de problemas emocionais"}
+                            subtitle={"Esquematiza Psicologia: Desenvolvendo a terapia do esquema e fortalecendo terapeutas"}
                         />
-                        <p>É importante que os psicólogos estejam familiarizados com essa abordagem para oferecer tratamentos personalizados e eficazes aos pacientes. Aprender sobre a terapia do esquema ajuda os profissionais a fornecer soluções mais efetivas para seus pacientes, promovendo uma vida mais saudável e feliz. </p>
+                        <p>"Esquematiza Psicologia" é um exemplo de como a paixão e a amizade podem ser combinadas para criar algo realmente transformador. Nosso projeto não apenas ensina a Terapia do Esquema, mas também inspira outros a seguirem seus sonhos e a se unirem em causas que acreditam. Bem-vindos ao nosso site! </p>
                         <div className="button">
                             <Link to="/supervisao">
                                 <button className="primary-btn">
