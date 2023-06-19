@@ -101,7 +101,7 @@ form .flexSB input:nth-child(1) {
 @media screen and (max-width: 600px){
 
     .contacts .container{
-        margin: 1rem;
+        margin: 0rem;
         margin-top: -2rem;
     }
 
@@ -111,6 +111,18 @@ form .flexSB input:nth-child(1) {
     }
     .contacts h1 {
      font-size: 20px;
+ 
+}
+
+.contacts .right .text-title {
+  font-size: 14px;
+  margin-bottom: 0rem;
+ 
+}
+
+.contacts span {
+  
+  font-size: 14px;
  
 }
   
